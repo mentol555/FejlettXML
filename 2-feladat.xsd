@@ -1,0 +1,29 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Books">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Book" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Book">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="title" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+                <xs:element name="authors" minOccurs="1" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="author" minOccurs="1" maxOccurs="unbounded" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="publisher" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+                <xs:element name="releaseDate" type="xs:date" minOccurs="1" maxOccurs="unbounded"/>
+                <xs:element name="characterNum" type="xs:nonNegativeInteger" minOccurs="1" maxOccurs="unbounded"/>
+                <xs:element name="povCharacterNum" type="xs:nonNegativeInteger" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+            <xs:attribute name="nr" type="xs:nonNegativeInteger" use="required"/>
+            <xs:attribute name="isbn" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

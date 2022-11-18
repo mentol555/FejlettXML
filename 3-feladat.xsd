@@ -1,0 +1,30 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Houses">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Region" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+            <xs:attribute name="regions" type="xs:nonNegativeInteger" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Region">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="House" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+            <xs:attribute name="name" type="xs:string" use="required"/>
+            <xs:attribute name="houses" type="xs:nonNegativeInteger" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="House">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Founder" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+                <xs:element name="CurrentLord" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+                <xs:element name="SwornMembersCount" type="xs:int" minOccurs="1" maxOccurs="unbounded"/>
+                <xs:element name="Words" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+            <xs:attribute name="name" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
