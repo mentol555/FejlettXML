@@ -1,0 +1,35 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="TvSeries">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Season" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+            <xs:attribute name="seasons" type="xs:nonNegativeInteger" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Season">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Character" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+            <xs:attribute name="nr" type="xs:nonNegativeInteger" use="required"/>
+            <xs:attribute name="characterCount" type="xs:nonNegativeInteger" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Character">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Allegiances">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="House" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="Gender" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+                <xs:element name="Culture" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+            <xs:attribute name="name" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
