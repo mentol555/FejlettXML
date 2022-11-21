@@ -3,7 +3,7 @@
 JSON
 Karaktereket csoportosítjuk a kúltúrájuk szerint, és ezeket a csoportokat rendezzük ABC sorrend szerint
 Azok a karakterek érdekelnek, akik az első két szezon valamelyikében részt vettek
-A karakterek megjelenített adatai: Név, nem, évad(ok) amikben játszottak, kultúrájuk
+A karakterek megjelenített adatai: Név, nem, évad(ok) amikben játszottak, kultúrájuk, karakter sorszáma az adatforrásban (/characters/501 -> 501-es sorszám)
 :)
 xquery version "3.1";
 
@@ -37,7 +37,8 @@ return map {
                                 for $season in $character?tvSeries
                                     return $season
                             },
-                            "culture": $character?culture
+                            "culture": $character?culture,
+                            "characterNr": fn:number(fn:tokenize($character?url, "/")[6])
                         }
                     }
                 }
