@@ -1,9 +1,10 @@
 (:
 9.feladat
 JSON
-Azokat a szereplőket keressük, akik nem tartoznak egy házhoz sem. (allegiances [])
-Ezek közül azokat válogassuk ki, akik szerepeltek az 5-ös számú könyvben, valamint a sorozat 3. és/vagy 6. évadjában.
-Ezeket a karaktereket csoportosítsuk nemük szerint, és a csoportokban szerepeljen az odatartozó karakterek száma? 
+Azokat a szereplőket keressük, akik akik CSAK az 2-es számú könyvben szerepeltek.
+A karaktereknek jelenítsük meg a könyvét amibe szerepelnek, valamint a háza(kat) ahova tartoznak,
+és hogy hány betűből áll a nevük (szóköz-karakter nem számít)
+Ezeket a karaktereket csoportosítsuk nemük szerint, és rendezzük név szerint abc sorrendbe.
 :)
 xquery version "3.1";
 
@@ -17,8 +18,33 @@ declare variable $characters := fn:json-doc("data.json")?characters?*;
 declare variable $books := fn:json-doc("data.json")?books?*;
 declare variable $houses := fn:json-doc("data.json")?houses?*;
 
-map {
+let $fifthBookUrl := for $book in $books
+                        where fn:ends-with($book?url, "/1")
+                        return $book?url
+let $onlySecondBook := [$fifthBookUrl]
+
+return map {
     "Characters": array {
-    
+        for $character in $characters
+        let $gender := $character?gender
+        group by $gender
+        return map {
+            fn:concat($gender, "characters"): array {
+                for $character in $characters
+                    let $count-letters := function($s) { fn:replace($s, " ", "") => fn:string-length() }
+                    where $character?gender = $gender and 
+                          $character?name ne "" and 
+                          fn:deep-equal($character?books, $onlySecondBook)
+                          order by $character?name
+                    return map {
+                        $character?name : map {
+                            "books": $books[?url = $onlySecondBook]?name,
+                            "allegiances": for $allegiance in $character?allegiances
+                                                return array {$houses[?url = $allegiance]?name},
+                            "LetterCount": $count-letters($character?name)
+                        }
+                    }
+                }
+        }
     }
 }
