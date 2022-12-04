@@ -28,7 +28,8 @@ return document {
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"/>
             <style>
                 tr, th {{
-                    text-align: center
+                    text-align: center;
+                    cursor: pointer;
                 }}
             </style>
         </head>
