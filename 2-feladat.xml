@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+    <Book nr="8" isbn="978-0553801477">
+        <title>A Dance with Dragons</title>
+        <authors>
+            <author>George R. R. Martin</author>
+        </authors>
+        <publisher>Bantam Books</publisher>
+        <releaseDate>2011-07-12</releaseDate>
+        <characterNum>861</characterNum>
+        <povCharacterNum>18</povCharacterNum>
+    </Book>
+    <Book nr="11" isbn="978-0553805444">
+        <title>The World of Ice and Fire</title>
+        <authors>
+            <author>Elio Garcia</author>
+            <author>Linda Antonsson</author>
+            <author>George R. R. Martin</author>
+        </authors>
+        <publisher>Bantam Books</publisher>
+        <releaseDate>2014-10-28</releaseDate>
+        <characterNum>265</characterNum>
+        <povCharacterNum>0</povCharacterNum>
+    </Book>
+    <Book nr="6" isbn="978-0785126508">
+        <title>The Sworn Sword</title>
+        <authors>
+            <author>George R. R. Martin</author>
+        </authors>
+        <publisher>Marvel</publisher>
+        <releaseDate>2008-06-18</releaseDate>
+        <characterNum>84</characterNum>
+        <povCharacterNum>1</povCharacterNum>
+    </Book>
+    <Book nr="7" isbn="978-0765360267">
+        <title>The Mystery Knight</title>
+        <authors>
+            <author>George R. R. Martin</author>
+        </authors>
+        <publisher>Tor Fantasy</publisher>
+        <releaseDate>2011-03-29</releaseDate>
+        <characterNum>71</characterNum>
+        <povCharacterNum>1</povCharacterNum>
+    </Book>
+    <Book nr="9" isbn="978-0765332066">
+        <title>The Princess and the Queen</title>
+        <authors>
+            <author>George R. R. Martin</author>
+        </authors>
+        <publisher>Tor Books</publisher>
+        <releaseDate>2013-12-03</releaseDate>
+        <characterNum>57</characterNum>
+        <povCharacterNum>0</povCharacterNum>
+    </Book>
+    <Book nr="10" isbn="978-0345537263">
+        <title>The Rogue Prince</title>
+        <authors>
+            <author>George R. R. Martin</author>
+        </authors>
+        <publisher>Bantam Books</publisher>
+        <releaseDate>2014-06-17</releaseDate>
+        <characterNum>55</characterNum>
+        <povCharacterNum>0</povCharacterNum>
+    </Book>
+    <Book nr="12" isbn="978-0345533487">
+        <title>A Knight of the Seven Kingdoms</title>
+        <authors>
+            <author>George R. R. Martin</author>
+        </authors>
+        <publisher>Bantam Books</publisher>
+        <releaseDate>2015-10-06</releaseDate>
+        <characterNum>0</characterNum>
+        <povCharacterNum>0</povCharacterNum>
+    </Book>
+</Books>

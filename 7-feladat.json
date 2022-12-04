@@ -1,0 +1,80 @@
+{ "Books":[
+        { "shortBook":[
+                { "Book":{
+                        "CharacterCount": 84,
+                        "Number of Pages": 152,
+                        "Title": "The Sworn Sword",
+                        "mediaType": "Hardcover"
+                    } },
+                { "Book":{
+                        "CharacterCount": 54,
+                        "Number of Pages": 164,
+                        "Title": "The Hedge Knight",
+                        "mediaType": "GraphicNovel"
+                    } },
+                { "Book":{
+                        "CharacterCount": 265,
+                        "Number of Pages": 336,
+                        "Title": "The World of Ice and Fire",
+                        "mediaType": "Hardcover"
+                    } },
+                { "Book":{
+                        "CharacterCount": 0,
+                        "Number of Pages": 368,
+                        "Title": "A Knight of the Seven Kingdoms",
+                        "mediaType": "Hardcover"
+                    } }
+            ] },
+        { "mediumSizedBook":[
+                { "Book":{
+                        "CharacterCount": 71,
+                        "Number of Pages": 416,
+                        "Title": "The Mystery Knight",
+                        "mediaType": "Paperback"
+                    } },
+                { "Book":{
+                        "CharacterCount": 434,
+                        "Number of Pages": 694,
+                        "Title": "A Game of Thrones",
+                        "mediaType": "Hardcover"
+                    } },
+                { "Book":{
+                        "CharacterCount": 778,
+                        "Number of Pages": 768,
+                        "Title": "A Clash of Kings",
+                        "mediaType": "Hardback"
+                    } },
+                { "Book":{
+                        "CharacterCount": 1241,
+                        "Number of Pages": 784,
+                        "Title": "A Feast for Crows",
+                        "mediaType": "Hardcover"
+                    } },
+                { "Book":{
+                        "CharacterCount": 57,
+                        "Number of Pages": 784,
+                        "Title": "The Princess and the Queen",
+                        "mediaType": "Hardcover"
+                    } }
+            ] },
+        { "longBook":[
+                { "Book":{
+                        "CharacterCount": 55,
+                        "Number of Pages": 832,
+                        "Title": "The Rogue Prince",
+                        "mediaType": "Hardcover"
+                    } },
+                { "Book":{
+                        "CharacterCount": 1021,
+                        "Number of Pages": 992,
+                        "Title": "A Storm of Swords",
+                        "mediaType": "Hardcover"
+                    } },
+                { "Book":{
+                        "CharacterCount": 861,
+                        "Number of Pages": 1040,
+                        "Title": "A Dance with Dragons",
+                        "mediaType": "Hardcover"
+                    } }
+            ] }
+    ] }

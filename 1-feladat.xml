@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wives>
+    <Count>15</Count>
+    <Wife nr="49">
+        <name>Aemma Arryn</name>
+        <gender>Female</gender>
+        <spouse>Viserys I</spouse>
+        <born>In 82 AC</born>
+        <died>In 105 AC</died>
+    </Wife>
+    <Wife nr="69">
+        <name>Alerie Hightower</name>
+        <gender>Female</gender>
+        <spouse>Mace Tyrell</spouse>
+        <born>In or between 257 AC and 263 AC, at Oldtown</born>
+    </Wife>
+    <Wife nr="76">
+        <name>Alicent Hightower</name>
+        <gender>Female</gender>
+        <spouse>Viserys I</spouse>
+        <born>In 88 AC</born>
+        <died>In 133 AC</died>
+    </Wife>
+    <Wife nr="92">
+        <name>Alys Arryn</name>
+        <gender>Female</gender>
+        <spouse>Elys Waynwood</spouse>
+        <born>In or between 218 AC and 249 AC</born>
+    </Wife>
+    <Wife nr="96">
+        <name>Alys Karstark</name>
+        <gender>Female</gender>
+        <spouse>Sigorn</spouse>
+        <born>In 284 AC or 285 AC, at Karhold</born>
+    </Wife>
+    <Wife nr="105">
+        <name>Alysanne Targaryen</name>
+        <gender>Female</gender>
+        <spouse>Jaehaerys I</spouse>
+        <born>36 AC</born>
+        <died>99 AC or 100 AC</died>
+    </Wife>
+    <Wife nr="108">
+        <name>Alyssa Blackwood</name>
+        <gender>Female</gender>
+        <spouse>Walder Frey</spouse>
+        <born>In 253 AC or before</born>
+        <died>In or between 269 AC and 278 AC</died>
+    </Wife>
+    <Wife nr="109">
+        <name>Alyssa Targaryen</name>
+        <gender>Female</gender>
+        <spouse>Baelon Targaryen</spouse>
+        <born>In or between 51 AC and 60 AC</born>
+    </Wife>
+    <Wife nr="110">
+        <name>Alyssa Velaryon</name>
+        <gender>Female</gender>
+        <spouse>Aenys I</spouse>
+        <born>In 7 AC</born>
+    </Wife>
+    <Wife nr="112">
+        <name>Amarei Crakehall</name>
+        <gender>Female</gender>
+        <spouse>Walder Frey</spouse>
+        <born>In 245 AC or before</born>
+        <died>In 264 AC</died>
+    </Wife>
+    <Wife nr="114">
+        <name>Amerei Frey</name>
+        <gender>Female</gender>
+        <spouse>Pate</spouse>
+        <born>In 282 AC</born>
+    </Wife>
+    <Wife nr="150">
+        <name>Asha Greyjoy</name>
+        <gender>Female</gender>
+        <spouse>Erik Ironmaker</spouse>
+        <born>In 275 AC or 276 AC, at Pyke</born>
+    </Wife>
+    <Wife nr="154">
+        <name>Baela Targaryen</name>
+        <gender>Female</gender>
+        <spouse>Alyn Velaryon</spouse>
+        <born>In 116 AC, at Pentos</born>
+    </Wife>
+    <Wife nr="195">
+        <name>Betha Blackwood</name>
+        <gender>Female</gender>
+        <spouse>Aegon V</spouse>
+        <born>At Raventree Hall</born>
+    </Wife>
+    <Wife nr="199">
+        <name>Bethany Rosby</name>
+        <gender>Female</gender>
+        <spouse>Walder Frey</spouse>
+        <born>In 265 AC or before</born>
+        <died>In or between 282 AC and 284 AC</died>
+    </Wife>
+</Wives>

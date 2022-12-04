@@ -1,0 +1,2693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Houses regions="13">
+    <Region name="" houses="6">
+        <House name="House Blackfyre of King's Landing">
+            <Founder>Daemon Blackfyre</Founder>
+            <CurrentLord/>
+            <SwornMembersCount>12</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Corbray of Heart's Home">
+            <Founder>Corwyn Corbray</Founder>
+            <CurrentLord>Lyonel Corbray</CurrentLord>
+            <SwornMembersCount>8</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Cox of Saltpans">
+            <Founder/>
+            <CurrentLord>Quincy Cox</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Strickland">
+            <Founder/>
+            <CurrentLord>Harry Strickland</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Templeton">
+            <Founder/>
+            <CurrentLord>Symond Templeton</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Vypren">
+            <Founder/>
+            <CurrentLord>Lucias Vypren</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+    </Region>
+    <Region name="Beyond the Wall" houses="1">
+        <House name="House Redbeard">
+            <Founder/>
+            <CurrentLord>Gerrick</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+    </Region>
+    <Region name="Dorne" houses="29">
+        <House name="House Allyrion of Godsgrace">
+            <Founder/>
+            <CurrentLord>Delonne Allyrion</CurrentLord>
+            <SwornMembersCount>4</SwornMembersCount>
+            <Words>No Foe May Pass</Words>
+        </House>
+        <House name="House Blackmont of Blackmont">
+            <Founder/>
+            <CurrentLord>Larra Blackmont</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Briar">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Brook">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Brownhill">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Dalt of Lemonwood">
+            <Founder/>
+            <CurrentLord>Deziel Dalt</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Dayne of High Hermitage">
+            <Founder/>
+            <CurrentLord>Gerold Dayne</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Dayne of Starfall">
+            <Founder/>
+            <CurrentLord>Edric Dayne</CurrentLord>
+            <SwornMembersCount>7</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Drinkwater">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Dryland">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Fowler of Skyreach">
+            <Founder/>
+            <CurrentLord>Frankyln Fowler</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words>Let Me Soar</Words>
+        </House>
+        <House name="House Gargalen of Salt Shore">
+            <Founder/>
+            <CurrentLord>Tremond Gargalen</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Holt">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Hull">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Jordayne of the Tor">
+            <Founder/>
+            <CurrentLord>Trebor Jordayne</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words>Let it be Written</Words>
+        </House>
+        <House name="House Ladybright">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lake">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Manwoody of Kingsgrave">
+            <Founder/>
+            <CurrentLord>Dagos Manwoody</CurrentLord>
+            <SwornMembersCount>5</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Nymeros Martell of Sunspear">
+            <Founder>Morgan Martell</Founder>
+            <CurrentLord>Doran Martell</CurrentLord>
+            <SwornMembersCount>36</SwornMembersCount>
+            <Words>Unbowed, Unbent, Unbroken</Words>
+        </House>
+        <House name="House Qorgyle of Sandstone">
+            <Founder/>
+            <CurrentLord>Quentyn Qorgyle</CurrentLord>
+            <SwornMembersCount>4</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Santagar of Spottswood">
+            <Founder/>
+            <CurrentLord>Symon Santagar</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Shell">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Toland of Ghost Hill">
+            <Founder/>
+            <CurrentLord>Nymella Toland</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Uller of Hellholt">
+            <Founder/>
+            <CurrentLord>Harmen Uller</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Vaith of the Red Dunes">
+            <Founder/>
+            <CurrentLord>Daeron Vaith</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Wade">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Wells">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Wyl of the Boneway">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Yronwood of Yronwood">
+            <Founder/>
+            <CurrentLord>Anders Yronwood</CurrentLord>
+            <SwornMembersCount>6</SwornMembersCount>
+            <Words>We Guard the Way</Words>
+        </House>
+    </Region>
+    <Region name="Iron Islands" houses="38">
+        <House name="House Blacktyde of Blacktyde">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Botley of Lordsport">
+            <Founder/>
+            <CurrentLord>Germund Botley</CurrentLord>
+            <SwornMembersCount>14</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Codd">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words>Though All Men Do Despise Us</Words>
+        </House>
+        <House name="House Drumm of Old Wyk">
+            <Founder/>
+            <CurrentLord>Dunstan Drumm</CurrentLord>
+            <SwornMembersCount>8</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Farwynd of Sealskin Point">
+            <Founder/>
+            <CurrentLord>Triston Farwynd</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Farwynd of the Lonely Light">
+            <Founder/>
+            <CurrentLord>Gylbert Farwynd</CurrentLord>
+            <SwornMembersCount>4</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Goodbrother of Corpse Lake">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Goodbrother of Crow Spike Keep">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Goodbrother of Downdelving">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Goodbrother of Hammerhorn">
+            <Founder/>
+            <CurrentLord>Gorold Goodbrother</CurrentLord>
+            <SwornMembersCount>6</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Goodbrother of Orkmont">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Goodbrother of Shatterstone">
+            <Founder/>
+            <CurrentLord>Norne Goodbrother</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Greyiron of Orkmont">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Greyjoy of Pyke">
+            <Founder/>
+            <CurrentLord>Euron Greyjoy</CurrentLord>
+            <SwornMembersCount>42</SwornMembersCount>
+            <Words>We Do Not Sow</Words>
+        </House>
+        <House name="House Harlaw of Grey Garden">
+            <Founder/>
+            <CurrentLord>Harras Harlaw</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Harlaw of Harlaw">
+            <Founder/>
+            <CurrentLord>Rodrik Harlaw</CurrentLord>
+            <SwornMembersCount>7</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Harlaw of Harlaw Hall">
+            <Founder/>
+            <CurrentLord>Sigfryd Harlaw</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Harlaw of Harridan Hill">
+            <Founder/>
+            <CurrentLord>Boremund Harlaw</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Harlaw of the Tower of Glimmering">
+            <Founder/>
+            <CurrentLord>Hotho Harlaw</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Hoare of Orkmont">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Humble">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Ironmaker">
+            <Founder/>
+            <CurrentLord>Erik Ironmaker</CurrentLord>
+            <SwornMembersCount>5</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Kenning of Harlaw">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Merlyn of Pebbleton">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Myre of Harlaw">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Netley">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Orkwood of Orkmont">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Saltcliffe of Saltcliffe">
+            <Founder/>
+            <CurrentLord>Donnor Saltcliffe</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Sharp">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Shepherd">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Sparr of Great Wyk">
+            <Founder/>
+            <CurrentLord>The Sparr</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Stonehouse of Old Wyk">
+            <Founder/>
+            <CurrentLord>The Stonehouse</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Stonetree of Harlaw">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Sunderly of Saltcliffe">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Tawney of Orkmont">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Volmark">
+            <Founder/>
+            <CurrentLord>Maron Volmark</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Weaver">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Wynch of Iron Holt">
+            <Founder/>
+            <CurrentLord>Waldon Wynch</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+    </Region>
+    <Region name="None" houses="1">
+        <House name="House Slynt of Harrenhal">
+            <Founder>Janos Slynt</Founder>
+            <CurrentLord>Morros Slynt</CurrentLord>
+            <SwornMembersCount>4</SwornMembersCount>
+            <Words/>
+        </House>
+    </Region>
+    <Region name="The Crownlands" houses="49">
+        <House name="House Bar Emmon of Sharp Point">
+            <Founder/>
+            <CurrentLord>Duram Bar Emmon</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Baratheon of Dragonstone">
+            <Founder>Stannis Baratheon</Founder>
+            <CurrentLord>Stannis Baratheon</CurrentLord>
+            <SwornMembersCount>27</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Baratheon of King's Landing">
+            <Founder>Robert I Baratheon</Founder>
+            <CurrentLord>Tommen Baratheon</CurrentLord>
+            <SwornMembersCount>8</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Blount">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Boggs of Crackclaw Point">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Brune of Brownhollow">
+            <Founder/>
+            <CurrentLord>Bennard Brune</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Brune of the Dyre Den">
+            <Founder/>
+            <CurrentLord>Eustace Brune</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Buckwell of the Antlers">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words>Pride and Purpose</Words>
+        </House>
+        <House name="House Byrch">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Bywater">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Cargyll">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Cave">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Celtigar of Claw Isle">
+            <Founder/>
+            <CurrentLord>Ardrian Celtigar</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Chelsted">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Chyttering">
+            <Founder/>
+            <CurrentLord>Lucos Chyttering</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Crabb">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>5</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Cressey">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Dargood">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Darke">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Darklyn of Duskendale">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>4</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Darkwood">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Edgerton">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Farring">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>4</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Follard">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words>None so Wise</Words>
+        </House>
+        <House name="House Gaunt">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Hardy">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Harte">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Hayford of Hayford">
+            <Founder/>
+            <CurrentLord>Ermesande Hayford</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Hogg of Sow's Horn">
+            <Founder/>
+            <CurrentLord>Roger Hogg</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Hollard">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>5</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Kettleblack">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>4</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Langward">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Longwaters">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Mallery">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Manning">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Massey of Stonedance">
+            <Founder>Maldon Massey</Founder>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Pyle">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Pyne">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Rambton">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Rollingford">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Rosby of Rosby">
+            <Founder/>
+            <CurrentLord>Gyles Rosby</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Rykker of Duskendale">
+            <Founder/>
+            <CurrentLord>Renfred Rykker</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Staunton of Rook's Rest">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Stokeworth of Stokeworth">
+            <Founder/>
+            <CurrentLord>Lollys Stokeworth</CurrentLord>
+            <SwornMembersCount>6</SwornMembersCount>
+            <Words>Proud to be Faithful</Words>
+        </House>
+        <House name="House Sunglass of Sweetport Sound">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Targaryen of King's Landing">
+            <Founder/>
+            <CurrentLord>Daenerys Targaryen</CurrentLord>
+            <SwornMembersCount>101</SwornMembersCount>
+            <Words>Fire and Blood</Words>
+        </House>
+        <House name="House Thorne">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Velaryon of Driftmark">
+            <Founder/>
+            <CurrentLord>Monterys Velaryon</CurrentLord>
+            <SwornMembersCount>15</SwornMembersCount>
+            <Words>The Old, the True, the Brave</Words>
+        </House>
+        <House name="House Wendwater">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words>For All Seasons</Words>
+        </House>
+    </Region>
+    <Region name="The Neck" houses="7">
+        <House name="House Blackmyre">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Cray">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Fenn">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Greengood">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Peat">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Quagg">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Reed of Greywater Watch">
+            <Founder/>
+            <CurrentLord>Howland Reed</CurrentLord>
+            <SwornMembersCount>4</SwornMembersCount>
+            <Words/>
+        </House>
+    </Region>
+    <Region name="The North" houses="61">
+        <House name="House Amber">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Ashwood">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Boggs">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Bole">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Bolton of the Dreadfort">
+            <Founder/>
+            <CurrentLord>Roose Bolton</CurrentLord>
+            <SwornMembersCount>15</SwornMembersCount>
+            <Words>Our Blades are Sharp</Words>
+        </House>
+        <House name="House Branch">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Branfield">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Burley">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Cassel">
+            <Founder/>
+            <CurrentLord>Beth Cassel</CurrentLord>
+            <SwornMembersCount>4</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Cerwyn of Cerwyn">
+            <Founder/>
+            <CurrentLord>Jonelle Cerwyn</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words>Honed and Ready</Words>
+        </House>
+        <House name="House Condon">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Crowl of Deepdown">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Dustin of Barrowton">
+            <Founder/>
+            <CurrentLord>Barbrey Dustin</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Fisher of the Stony Shore">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Flint  of the mountains">
+            <Founder/>
+            <CurrentLord>Torghen Flint</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Flint of Breakstone Hill">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Flint of Flint's Finger">
+            <Founder/>
+            <CurrentLord>Robin Flint</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Flint of Widow's Watch">
+            <Founder/>
+            <CurrentLord>Lyessa Flint</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words>Ever Vigilant</Words>
+        </House>
+        <House name="House Forrester">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words>Iron from Ice (Telltale)</Words>
+        </House>
+        <House name="House Frost">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Glenmore">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Glover of Deepwood Motte">
+            <Founder/>
+            <CurrentLord>Galbart Glover</CurrentLord>
+            <SwornMembersCount>6</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Greenwood">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Greystark of Wolf's Den">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Harclay">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Holt">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Hornwood of Hornwood">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>5</SwornMembersCount>
+            <Words>Righteous in Wrath</Words>
+        </House>
+        <House name="House Ironsmith">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Karstark of Karhold">
+            <Founder>Karlon Stark</Founder>
+            <CurrentLord>Harrion Karstark</CurrentLord>
+            <SwornMembersCount>11</SwornMembersCount>
+            <Words>The Sun of Winter</Words>
+        </House>
+        <House name="House Knott">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lake">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Liddle">
+            <Founder/>
+            <CurrentLord>Torren Liddle</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lightfoot">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Locke of Oldcastle">
+            <Founder/>
+            <CurrentLord>Ondrew Locke</CurrentLord>
+            <SwornMembersCount>4</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Long">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Magnar of Kingshouse">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Manderly of White Harbor">
+            <Founder/>
+            <CurrentLord>Wyman Manderly</CurrentLord>
+            <SwornMembersCount>10</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Marsh">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Mollen">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Mormont of Bear Island">
+            <Founder/>
+            <CurrentLord>Maege Mormont</CurrentLord>
+            <SwornMembersCount>8</SwornMembersCount>
+            <Words>Here We Stand</Words>
+        </House>
+        <House name="House Moss">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Norrey">
+            <Founder/>
+            <CurrentLord>Brandon Norrey</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Overton">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Poole">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Ryder of the Rills">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Ryswell of the Rills">
+            <Founder/>
+            <CurrentLord>Rodrik Ryswell</CurrentLord>
+            <SwornMembersCount>8</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Slate of Blackpool">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Stane of Driftwood Hall">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Stark of Winterfell">
+            <Founder>Brandon Stark</Founder>
+            <CurrentLord/>
+            <SwornMembersCount>88</SwornMembersCount>
+            <Words>Winter is Coming</Words>
+        </House>
+        <House name="House Stout of Goldgrass">
+            <Founder/>
+            <CurrentLord>Harwood Stout</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Tallhart of Torrhen's Square">
+            <Founder/>
+            <CurrentLord>Eddara Tallhart</CurrentLord>
+            <SwornMembersCount>7</SwornMembersCount>
+            <Words>Proud and Free</Words>
+        </House>
+        <House name="House Thenn">
+            <Founder/>
+            <CurrentLord>Sigorn</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Towers">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Umber of the Last Hearth">
+            <Founder/>
+            <CurrentLord>Jon Umber</CurrentLord>
+            <SwornMembersCount>6</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Waterman">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Wells">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Whitehill">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Woodfoot of Bear Island">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Woods">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Woolfield">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Wull">
+            <Founder/>
+            <CurrentLord>Hugo Wull</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+    </Region>
+    <Region name="The Reach" houses="72">
+        <House name="House Ambrose">
+            <Founder/>
+            <CurrentLord>Arthur Ambrose</CurrentLord>
+            <SwornMembersCount>5</SwornMembersCount>
+            <Words>Never Resting</Words>
+        </House>
+        <House name="House Appleton of Appleton">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Ashford of Ashford">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>4</SwornMembersCount>
+            <Words>Our Sun Shines Bright</Words>
+        </House>
+        <House name="House Ball">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Beesbury of Honeyholt">
+            <Founder>Ellyn Ever Sweet</Founder>
+            <CurrentLord>Warryn Beesbury</CurrentLord>
+            <SwornMembersCount>9</SwornMembersCount>
+            <Words>Beware our Sting</Words>
+        </House>
+        <House name="House Blackbar of Bandallon">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Bridges">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Bulwer of Blackcrown">
+            <Founder/>
+            <CurrentLord>Alysanne Bulwer</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words>Death Before Disgrace</Words>
+        </House>
+        <House name="House Bushy">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Caswell of Bitterbridge">
+            <Founder/>
+            <CurrentLord>Lorent Caswell</CurrentLord>
+            <SwornMembersCount>6</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Chester of Greenshield">
+            <Founder/>
+            <CurrentLord>Moribald Chester</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Cockshaw">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Conklyn">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Cordwayner of Hammerhal">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Costayne of Three Towers">
+            <Founder/>
+            <CurrentLord>Tommen Costayne</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Crane of Red Lake">
+            <Founder>Rose of Red Lake</Founder>
+            <CurrentLord/>
+            <SwornMembersCount>6</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Cuy of Sunhouse">
+            <Founder/>
+            <CurrentLord>Branston Cuy</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Dunn">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Durwell">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Florent of Brightwater Keep">
+            <Founder>Florys the Fox</Founder>
+            <CurrentLord>Alekyne Florent</CurrentLord>
+            <SwornMembersCount>14</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Footly of Tumbleton">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words>Tread Lightly Here</Words>
+        </House>
+        <House name="House Fossoway of Cider Hall">
+            <Founder>Foss the Archer</Founder>
+            <CurrentLord/>
+            <SwornMembersCount>5</SwornMembersCount>
+            <Words>Taste of Glory</Words>
+        </House>
+        <House name="House Fossoway of New Barrel">
+            <Founder>Raymun Fossoway</Founder>
+            <CurrentLord>Jon Fossoway</CurrentLord>
+            <SwornMembersCount>4</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Gardener of Highgarden">
+            <Founder>Garth the Gardener</Founder>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Graceford of Holyhall">
+            <Founder/>
+            <CurrentLord>Alyce Graceford</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words>Work Her Will</Words>
+        </House>
+        <House name="House Graves">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Grimm of Greyshield">
+            <Founder/>
+            <CurrentLord>Guthor Grimm</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Hastwyck">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words>None so Dutiful</Words>
+        </House>
+        <House name="House Hewett of Oakenshield">
+            <Founder/>
+            <CurrentLord>Humfrey Hewett</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Hightower of the Hightower">
+            <Founder>Uthor of the High Tower</Founder>
+            <CurrentLord>Leyton Hightower</CurrentLord>
+            <SwornMembersCount>19</SwornMembersCount>
+            <Words>We Light the Way</Words>
+        </House>
+        <House name="House Hunt">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Hutcheson">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Inchfield">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Kidwell of Ivy Hall">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Leygood">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lowther">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lyberr">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Meadows of Grassy Vale">
+            <Founder/>
+            <CurrentLord>Elwood Meadows</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Merryweather of Longtable">
+            <Founder/>
+            <CurrentLord>Orton Merryweather</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words>Behold Our Bounty</Words>
+        </House>
+        <House name="House Middlebury">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Mullendore of Uplands">
+            <Founder/>
+            <CurrentLord>Martyn Mullendore</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Norcross">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>6</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Norridge">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Oakheart of Old Oak">
+            <Founder>John the Oak</Founder>
+            <CurrentLord>Arwyn Oakheart</CurrentLord>
+            <SwornMembersCount>6</SwornMembersCount>
+            <Words>Our Roots Go Deep</Words>
+        </House>
+        <House name="House Oldflowers">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Orme">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Osgrey of Leafy Lake">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Osgrey of Standfast">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>22</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Peake of Starpike">
+            <Founder/>
+            <CurrentLord>Titus Peake</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Pommingham">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Redding">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Redwyne of the Arbor">
+            <Founder>Gilbert of the Vines</Founder>
+            <CurrentLord>Paxter Redwyne</CurrentLord>
+            <SwornMembersCount>11</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Rhysling">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Risley">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Rowan of Goldengrove">
+            <Founder>Rowan Gold-Tree</Founder>
+            <CurrentLord>Mathis Rowan</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Roxton of the Ring">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Serry of Southshield">
+            <Founder/>
+            <CurrentLord>Osbert Serry</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Shermer of Smithyton">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Sloane">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Stackhouse">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Tarly of Horn Hill">
+            <Founder/>
+            <CurrentLord>Randyll Tarly</CurrentLord>
+            <SwornMembersCount>6</SwornMembersCount>
+            <Words>First in Battle</Words>
+        </House>
+        <House name="House Tyrell of Brightwater Keep">
+            <Founder>Garlan Tyrell</Founder>
+            <CurrentLord>Garlan Tyrell</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Tyrell of Highgarden">
+            <Founder>Alester Tyrell</Founder>
+            <CurrentLord>Mace Tyrell</CurrentLord>
+            <SwornMembersCount>44</SwornMembersCount>
+            <Words>Growing Strong</Words>
+        </House>
+        <House name="House Uffering">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Varner">
+            <Founder/>
+            <CurrentLord>Steffon Varner</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Vyrwel of Darkdell">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Webber of Coldmoat">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>7</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Westbrook">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Willum">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Woodwright">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Wythers">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Yelshire">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+    </Region>
+    <Region name="The Riverlands" houses="52">
+        <House name="House Baelish of Harrenhal">
+            <Founder>Petyr Baelish</Founder>
+            <CurrentLord>Petyr Baelish</CurrentLord>
+            <SwornMembersCount>5</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Bigglestone">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Blackwood of Raventree Hall">
+            <Founder/>
+            <CurrentLord>Tytos Blackwood</CurrentLord>
+            <SwornMembersCount>8</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Blanetree">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Bracken of Stone Hedge">
+            <Founder/>
+            <CurrentLord>Jonos Bracken</CurrentLord>
+            <SwornMembersCount>14</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Butterwell">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>5</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Chambers">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Charlton">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Darry of Darry">
+            <Founder/>
+            <CurrentLord>Mariya Darry</CurrentLord>
+            <SwornMembersCount>6</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Deddings">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Erenford">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Fisher">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Frey of Riverrun">
+            <Founder>Emmon Frey</Founder>
+            <CurrentLord>Emmon Frey</CurrentLord>
+            <SwornMembersCount>6</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Frey of the Crossing">
+            <Founder/>
+            <CurrentLord>Walder Frey</CurrentLord>
+            <SwornMembersCount>123</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Goodbrook">
+            <Founder/>
+            <CurrentLord>Lymond Goodbrook</CurrentLord>
+            <SwornMembersCount>4</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Grell">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Grey">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Haigh">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>6</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Harlton">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Harroway of Harrenhal">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Hawick of Saltpans">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Heddle">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Hook">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Justman">
+            <Founder>Benedict I Justman</Founder>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Keath">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lannister of Darry">
+            <Founder>Lancel Lannister</Founder>
+            <CurrentLord>Lancel Lannister</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lolliston">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lothston of Harrenhal">
+            <Founder>Lucas Lothston</Founder>
+            <CurrentLord/>
+            <SwornMembersCount>6</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lychester">
+            <Founder/>
+            <CurrentLord>Lymond Lychester</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Mallister of Seagard">
+            <Founder/>
+            <CurrentLord>Jason Mallister</CurrentLord>
+            <SwornMembersCount>6</SwornMembersCount>
+            <Words>Above the Rest</Words>
+        </House>
+        <House name="House Mooton of Maidenpool">
+            <Founder/>
+            <CurrentLord>William Mooton</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words>Wisdom and Strength</Words>
+        </House>
+        <House name="House Mudd of Oldstones">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Nayland of Hag's Mire">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Nutt">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Paege">
+            <Founder/>
+            <CurrentLord>Halmon Paege</CurrentLord>
+            <SwornMembersCount>7</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Perryn">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Piper of Pinkmaiden">
+            <Founder/>
+            <CurrentLord>Clement Piper</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words>Brave and Beautiful</Words>
+        </House>
+        <House name="House Qoherys of Harrenhal">
+            <Founder>Quenton Qoherys</Founder>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Roote of Lord Harroway's Town">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Ryger of Willow Wood">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Shawney">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Smallwood of Acorn Hall">
+            <Founder/>
+            <CurrentLord>Theomar Smallwood</CurrentLord>
+            <SwornMembersCount>4</SwornMembersCount>
+            <Words>From These Beginnings</Words>
+        </House>
+        <House name="House Strong of Harrenhal">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>4</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Teague">
+            <Founder>Torrence Teague</Founder>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Terrick">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Towers of Harrenhal">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Tully of Riverrun">
+            <Founder/>
+            <CurrentLord>Edmure Tully</CurrentLord>
+            <SwornMembersCount>17</SwornMembersCount>
+            <Words>Family, Duty, Honor</Words>
+        </House>
+        <House name="House Vance of Atranta">
+            <Founder>Armistead Vance</Founder>
+            <CurrentLord>Norbert Vance</CurrentLord>
+            <SwornMembersCount>5</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Vance of Wayfarer's Rest">
+            <Founder>Armistead Vance</Founder>
+            <CurrentLord>Karyl Vance</CurrentLord>
+            <SwornMembersCount>4</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Wayn">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Whent of Harrenhal">
+            <Founder/>
+            <CurrentLord>Shella Whent</CurrentLord>
+            <SwornMembersCount>13</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Wode">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words>Touch Me Not</Words>
+        </House>
+    </Region>
+    <Region name="The Stormlands" houses="38">
+        <House name="House Baratheon of Storm's End">
+            <Founder>Orys Baratheon</Founder>
+            <CurrentLord>Tommen Baratheon</CurrentLord>
+            <SwornMembersCount>19</SwornMembersCount>
+            <Words>Ours is the Fury</Words>
+        </House>
+        <House name="House Bolling">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Buckler of Bronzegate">
+            <Founder/>
+            <CurrentLord>Ralph Buckler</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Cafferen of Fawnton">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Caron of Nightsong">
+            <Founder/>
+            <CurrentLord>Rolland Storm</CurrentLord>
+            <SwornMembersCount>5</SwornMembersCount>
+            <Words>No Song so Sweet</Words>
+        </House>
+        <House name="House Cole">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Connington of Griffin's Roost">
+            <Founder/>
+            <CurrentLord>Jon Connington</CurrentLord>
+            <SwornMembersCount>5</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Dondarrion of Blackhaven">
+            <Founder/>
+            <CurrentLord>Beric Dondarrion</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Durrandon">
+            <Founder>Durran</Founder>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words>Ours is the Fury</Words>
+        </House>
+        <House name="House Errol of Haystack Hall">
+            <Founder/>
+            <CurrentLord>Sebastion Errol</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Estermont of Greenstone">
+            <Founder/>
+            <CurrentLord>Eldon Estermont</CurrentLord>
+            <SwornMembersCount>7</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Fell of Felwood">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Foote of Nightsong">
+            <Founder>Philip Foote</Founder>
+            <CurrentLord>Philip Foote</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Gower">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Grandison of Grandview">
+            <Founder/>
+            <CurrentLord>Hugh Grandison</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words>Rouse Me Not</Words>
+        </House>
+        <House name="House Hasty">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Herston">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Horpe">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Kellington">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lonmouth">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words>The Choice is Yours</Words>
+        </House>
+        <House name="House Mertyns of Mistwood">
+            <Founder/>
+            <CurrentLord>Mary Mertyns</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Morrigen of Crow's Nest">
+            <Founder/>
+            <CurrentLord>Lester Morrigen</CurrentLord>
+            <SwornMembersCount>4</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Musgood">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Peasebury of Poddingfield">
+            <Founder/>
+            <CurrentLord>Robin Peasebury</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Penrose of Parchments">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>4</SwornMembersCount>
+            <Words>Set Down Our Deeds</Words>
+        </House>
+        <House name="House Rogers of Amberly">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Seaworth of Cape Wrath">
+            <Founder>Davos Seaworth</Founder>
+            <CurrentLord>Davos Seaworth</CurrentLord>
+            <SwornMembersCount>9</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Selmy of Harvest Hall">
+            <Founder/>
+            <CurrentLord>Arstan Selmy</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Staedmon of Broad Arch">
+            <Founder/>
+            <CurrentLord>Alesander Staedmon</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Swann of Stonehelm">
+            <Founder/>
+            <CurrentLord>Gulian Swann</CurrentLord>
+            <SwornMembersCount>10</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Swygert">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words>Truth Conquers</Words>
+        </House>
+        <House name="House Tarth of Evenfall Hall">
+            <Founder/>
+            <CurrentLord>Selwyn Tarth</CurrentLord>
+            <SwornMembersCount>8</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Toyne">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words>Fly High, Fly Far</Words>
+        </House>
+        <House name="House Trant of Gallowsgrey">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words>So End Our Foes</Words>
+        </House>
+        <House name="House Tudbury">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Wagstaff">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Wensington">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words>Sound The Charge</Words>
+        </House>
+        <House name="House Wylde of Rain House">
+            <Founder/>
+            <CurrentLord>Casper Wylde</CurrentLord>
+            <SwornMembersCount>10</SwornMembersCount>
+            <Words/>
+        </House>
+    </Region>
+    <Region name="The Vale" houses="35">
+        <House name="House Arryn of Gulltown">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Arryn of the Eyrie">
+            <Founder>Artys I Arryn</Founder>
+            <CurrentLord>Robert Arryn</CurrentLord>
+            <SwornMembersCount>24</SwornMembersCount>
+            <Words>As High as Honor</Words>
+        </House>
+        <House name="House Baelish of the Fingers">
+            <Founder>Baelish</Founder>
+            <CurrentLord>Petyr Baelish</CurrentLord>
+            <SwornMembersCount>8</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Belmore of Strongsong">
+            <Founder/>
+            <CurrentLord>Benedar Belmore</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Borrell of Sweetsister">
+            <Founder/>
+            <CurrentLord>Godric Borrell</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Breakstone">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Brightstone">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Coldwater of Coldwater Burn">
+            <Founder/>
+            <CurrentLord>Royce Coldwater</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Donniger">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Egen">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words>By Day or Night</Words>
+        </House>
+        <House name="House Elesham of the Paps">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Grafton of Gulltown">
+            <Founder/>
+            <CurrentLord>Gerold Grafton</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Hardyng">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Hersy of Newkeep">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Hunter of Longbow Hall">
+            <Founder/>
+            <CurrentLord>Gilwood Hunter</CurrentLord>
+            <SwornMembersCount>5</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lipps">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Longthorpe of Longsister">
+            <Founder/>
+            <CurrentLord>Rolland Longthorpe</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lynderly of the Snakewood">
+            <Founder/>
+            <CurrentLord>Jon Lynderly</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Melcolm of Old Anchor">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Moore">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Pryor of Pebble">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Redfort of Redfort">
+            <Founder/>
+            <CurrentLord>Horton Redfort</CurrentLord>
+            <SwornMembersCount>7</SwornMembersCount>
+            <Words>As Strong as Stone</Words>
+        </House>
+        <House name="House Royce of Runestone">
+            <Founder/>
+            <CurrentLord>Yohn Royce</CurrentLord>
+            <SwornMembersCount>12</SwornMembersCount>
+            <Words>We Remember</Words>
+        </House>
+        <House name="House Royce of the Gates of the Moon">
+            <Founder/>
+            <CurrentLord>Nestor Royce</CurrentLord>
+            <SwornMembersCount>7</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Ruthermont">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Shell">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Shett of Gull Tower">
+            <Founder/>
+            <CurrentLord>Damon Shett</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Shett of Gulltown">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Sunderland of the Three Sisters">
+            <Founder/>
+            <CurrentLord>Triston Sunderland</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Tollett of the Grey Glen">
+            <Founder/>
+            <CurrentLord>Uthor Tollett</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words>When All is Darkest</Words>
+        </House>
+        <House name="House Torrent of Littlesister">
+            <Founder/>
+            <CurrentLord>Alesandor Torrent</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Upcliff">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Waxley of Wickenden">
+            <Founder/>
+            <CurrentLord>Edmund Waxley</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words>Light in Darkness</Words>
+        </House>
+        <House name="House Waynwood of Ironoaks">
+            <Founder/>
+            <CurrentLord>Anya Waynwood</CurrentLord>
+            <SwornMembersCount>10</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Wydman">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words>Right Conquers Might</Words>
+        </House>
+    </Region>
+    <Region name="The Westerlands" houses="55">
+        <House name="House Algood">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Banefort of Banefort">
+            <Founder>Hooded Man</Founder>
+            <CurrentLord>Quenten Banefort</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Bettley">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Brax of Hornvale">
+            <Founder/>
+            <CurrentLord>Tytos Brax</CurrentLord>
+            <SwornMembersCount>10</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Broom">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Casterly of Casterly Rock">
+            <Founder>Corlos</Founder>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Clegane">
+            <Founder>Clegane</Founder>
+            <CurrentLord/>
+            <SwornMembersCount>11</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Clifton">
+            <Founder/>
+            <CurrentLord>Gareth Clifton</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Crakehall of Crakehall">
+            <Founder>Crake</Founder>
+            <CurrentLord>Roland Crakehall</CurrentLord>
+            <SwornMembersCount>12</SwornMembersCount>
+            <Words>None so Fierce</Words>
+        </House>
+        <House name="House Doggett">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Drox">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Estren of Wyndhall">
+            <Founder/>
+            <CurrentLord>Regenard Estren</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Falwell">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Farman of Faircastle">
+            <Founder/>
+            <CurrentLord>Sebaston Farman</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Ferren">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Foote">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Garner">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Greenfield of Greenfield">
+            <Founder/>
+            <CurrentLord>Garth Greenfield</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Hamell">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Hawthorne">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Hetherspoon">
+            <Founder/>
+            <CurrentLord>Tybolt Hetherspoon</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Jast">
+            <Founder/>
+            <CurrentLord>Antario Jast</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Kenning of Kayce">
+            <Founder>Herrock Kenning</Founder>
+            <CurrentLord>Terrence Kenning</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Kyndall">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lannett">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lannister of Casterly Rock">
+            <Founder>Lann</Founder>
+            <CurrentLord>Cersei Lannister</CurrentLord>
+            <SwornMembersCount>79</SwornMembersCount>
+            <Words>Hear Me Roar!</Words>
+        </House>
+        <House name="House Lannister of Lannisport">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lanny">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lantell">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lefford of the Golden Tooth">
+            <Founder/>
+            <CurrentLord>Alysanne Lefford</CurrentLord>
+            <SwornMembersCount>5</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lorch">
+            <Founder/>
+            <CurrentLord>Lorent Lorch</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Lydden of Deep Den">
+            <Founder/>
+            <CurrentLord>Lewys Lydden</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Marbrand of Ashemark">
+            <Founder/>
+            <CurrentLord>Damon Marbrand</CurrentLord>
+            <SwornMembersCount>5</SwornMembersCount>
+            <Words>Burning bright</Words>
+        </House>
+        <House name="House Moreland">
+            <Founder>Pate</Founder>
+            <CurrentLord>Robin Moreland</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Myatt">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Parren">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Payne">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Peckledon">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words>Unflinching</Words>
+        </House>
+        <House name="House Plumm">
+            <Founder/>
+            <CurrentLord>Philip Plumm</CurrentLord>
+            <SwornMembersCount>8</SwornMembersCount>
+            <Words>Come Try Me</Words>
+        </House>
+        <House name="House Prester of Feastfires">
+            <Founder/>
+            <CurrentLord>Garrison Prester</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words>Tireless</Words>
+        </House>
+        <House name="House Reyne of Castamere">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Ruttiger">
+            <Founder/>
+            <CurrentLord>Raynard Ruttiger</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Sarsfield of Sarsfield">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words>True to the Mark</Words>
+        </House>
+        <House name="House Sarwyck">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Serrett of Silverhill">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words>I Have No Rival</Words>
+        </House>
+        <House name="House Spicer of Castamere">
+            <Founder/>
+            <CurrentLord>Rolph Spicer</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Stackspear">
+            <Founder/>
+            <CurrentLord>Selmond Stackspear</CurrentLord>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Swyft of Cornfield">
+            <Founder/>
+            <CurrentLord>Harys Swyft</CurrentLord>
+            <SwornMembersCount>9</SwornMembersCount>
+            <Words>Awake! Awake!</Words>
+        </House>
+        <House name="House Tarbeck of Tarbeck Hall">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>3</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Turnberry">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Vikary">
+            <Founder/>
+            <CurrentLord>Lymond Vikary</CurrentLord>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Westerling of the Crag">
+            <Founder/>
+            <CurrentLord>Gawen Westerling</CurrentLord>
+            <SwornMembersCount>12</SwornMembersCount>
+            <Words>Honor, Not Honors</Words>
+        </House>
+        <House name="House Westford">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>0</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Yarwyck">
+            <Founder/>
+            <CurrentLord/>
+            <SwornMembersCount>1</SwornMembersCount>
+            <Words/>
+        </House>
+        <House name="House Yew">
+            <Founder>Alan</Founder>
+            <CurrentLord>Manfryd Yew</CurrentLord>
+            <SwornMembersCount>2</SwornMembersCount>
+            <Words/>
+        </House>
+    </Region>
+</Houses>

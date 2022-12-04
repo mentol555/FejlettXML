@@ -1,0 +1,531 @@
+{ "Cultures":[
+    { "Andal":[ { "Character":{
+            "Gender": "Male",
+            "Name": "Samwell Tarly",
+            "characterNr": 954,
+            "culture": "Andal",
+            "playedIn": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+          } } ] },
+    { "Asshai":[
+        { "Character":{
+            "Gender": "Female",
+            "Name": "Melisandre",
+            "characterNr": 743,
+            "culture": "Asshai",
+            "playedIn": [ [ "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+          } },
+        { "Character":{
+            "Gender": "Female",
+            "Name": "Quaithe",
+            "characterNr": 1839,
+            "culture": "Asshai",
+            "playedIn": [ [ "Season 2" ] ]
+          } }
+      ] },
+    { "Astapori":[  ] },
+    { "Braavosi":[ { "Character":{
+            "Gender": "Male",
+            "Name": "Syrio Forel",
+            "characterNr": 1979,
+            "culture": "Braavosi",
+            "playedIn": [ [ "Season 1" ] ]
+          } } ] },
+    { "Crannogmen":[  ] },
+    { "Dornish":[  ] },
+    { "Dothraki":[
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Drogo",
+            "characterNr": 1346,
+            "culture": "Dothraki",
+            "playedIn": [ [ "Season 1", "Season 2" ] ]
+          } },
+        { "Character":{
+            "Gender": "Female",
+            "Name": "Irri",
+            "characterNr": 1523,
+            "culture": "Dothraki",
+            "playedIn": [ [ "Season 1", "Season 2" ] ]
+          } },
+        { "Character":{
+            "Gender": "Female",
+            "Name": "Jhiqui",
+            "characterNr": 1548,
+            "culture": "Dothraki",
+            "playedIn": [ [ "Season 1" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Mago",
+            "characterNr": 1660,
+            "culture": "Dothraki",
+            "playedIn": [ [ "Season 1" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Qotho",
+            "characterNr": 1838,
+            "culture": "Dothraki",
+            "playedIn": [ [ "Season 1" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Rakharo",
+            "characterNr": 1856,
+            "culture": "Dothraki",
+            "playedIn": [ [ "Season 1", "Season 2" ] ]
+          } }
+      ] },
+    { "First Men":[  ] },
+    { "Free Folk":[
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Craster",
+            "characterNr": 1293,
+            "culture": "Free Folk",
+            "playedIn": [ [ "Season 2", "Season 3" ] ]
+          } },
+        { "Character":{
+            "Gender": "Female",
+            "Name": "Gilly",
+            "characterNr": 1427,
+            "culture": "Free Folk",
+            "playedIn": [ [ "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Lord of Bones",
+            "characterNr": 1630,
+            "culture": "Free Folk",
+            "playedIn": [ [ "Season 2", "Season 3" ] ]
+          } },
+        { "Character":{
+            "Gender": "Female",
+            "Name": "Osha",
+            "characterNr": 1787,
+            "culture": "Free Folk",
+            "playedIn": [ [ "Season 1", "Season 2", "Season 3", "Season 6" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Stiv",
+            "characterNr": 1968,
+            "culture": "Free Folk",
+            "playedIn": [ [ "Season 1" ] ]
+          } },
+        { "Character":{
+            "Gender": "Female",
+            "Name": "Ygritte",
+            "characterNr": 2126,
+            "culture": "Free Folk",
+            "playedIn": [ [ "Season 2", "Season 3", "Season 4" ] ]
+          } }
+      ] },
+    { "Free folk":[  ] },
+    { "Ghiscari":[  ] },
+    { "Ibbenese":[  ] },
+    { "Ironborn":[
+        { "Character":{
+            "Gender": "Female",
+            "Name": "Asha Greyjoy",
+            "characterNr": 150,
+            "culture": "Ironborn",
+            "playedIn": [ [ "Season 2", "Season 3", "Season 4" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Theon Greyjoy",
+            "characterNr": 1022,
+            "culture": "Ironborn",
+            "playedIn": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Dagmer",
+            "characterNr": 1306,
+            "culture": "Ironborn",
+            "playedIn": [ [ "Season 2" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Drennan",
+            "characterNr": 1345,
+            "culture": "Ironborn",
+            "playedIn": [ [ "Season 2" ] ]
+          } }
+      ] },
+    { "Lhazareen":[ { "Character":{
+            "Gender": "Female",
+            "Name": "Mirri Maz Duur",
+            "characterNr": 1708,
+            "culture": "Lhazareen",
+            "playedIn": [ [ "Season 1" ] ]
+          } } ] },
+    { "Lysene":[
+        { "Character":{
+            "Gender": "Female",
+            "Name": "Doreah",
+            "characterNr": 1340,
+            "culture": "Lysene",
+            "playedIn": [ [ "Season 1", "Season 2" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Salladhor Saan",
+            "characterNr": 1925,
+            "culture": "Lysene",
+            "playedIn": [ [ "Season 2", "Season 3", "Season 4" ] ]
+          } }
+      ] },
+    { "Meereenese":[  ] },
+    { "Mountain clans":[
+        { "Character":{
+            "Gender": "Female",
+            "Name": "Chella daughter of Cheyk",
+            "characterNr": 1266,
+            "culture": "Mountain clans",
+            "playedIn": [ [ "Season 1" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Timett, son of Timett",
+            "characterNr": 2009,
+            "culture": "Mountain clans",
+            "playedIn": [ [ "Season 1", "Season 2" ] ]
+          } }
+      ] },
+    { "Myrish":[  ] },
+    { "Naathi":[  ] },
+    { "Northern mountain clans":[  ] },
+    { "Northmen":[
+        { "Character":{
+            "Gender": "Female",
+            "Name": "Arya Stark",
+            "characterNr": 148,
+            "culture": "Northmen",
+            "playedIn": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Benjen Stark",
+            "characterNr": 181,
+            "culture": "Northmen",
+            "playedIn": [ [ "Season 1", "Season 6" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Brandon Stark",
+            "characterNr": 208,
+            "culture": "Northmen",
+            "playedIn": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 6" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Eddard Stark",
+            "characterNr": 339,
+            "culture": "Northmen",
+            "playedIn": [ [ "Season 1", "Season 6" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Galbart Glover",
+            "characterNr": 397,
+            "culture": "Northmen",
+            "playedIn": [ [ "Season 1" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Jeor Mormont",
+            "characterNr": 547,
+            "culture": "Northmen",
+            "playedIn": [ [ "Season 1", "Season 2", "Season 3" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Jon Snow",
+            "characterNr": 583,
+            "culture": "Northmen",
+            "playedIn": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Jon Umber",
+            "characterNr": 585,
+            "culture": "Northmen",
+            "playedIn": [ [ "Season 1" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Jory Cassel",
+            "characterNr": 595,
+            "culture": "Northmen",
+            "playedIn": [ [ "Season 1" ] ]
+          } },
+        { "Character":{
+            "Gender": "Female",
+            "Name": "Maege Mormont",
+            "characterNr": 692,
+            "culture": "Northmen",
+            "playedIn": [ [ "Season 1" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Rickard Karstark",
+            "characterNr": 884,
+            "culture": "Northmen",
+            "playedIn": [ [ "Season 1", "Season 2", "Season 3" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Rickon Stark",
+            "characterNr": 891,
+            "culture": "Northmen",
+            "playedIn": [ [ "Season 1", "Season 2", "Season 3", "Season 4" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Rodrik Cassel",
+            "characterNr": 912,
+            "culture": "Northmen",
+            "playedIn": [ [ "Season 1", "Season 2" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Roose Bolton",
+            "characterNr": 933,
+            "culture": "Northmen",
+            "playedIn": [ [ "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+          } },
+        { "Character":{
+            "Gender": "Female",
+            "Name": "Sansa Stark",
+            "characterNr": 957,
+            "culture": "Northmen",
+            "playedIn": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Torrhen Karstark",
+            "characterNr": 1033,
+            "culture": "Northmen",
+            "playedIn": [ [ "Season 2" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Jorah Mormont",
+            "characterNr": 1560,
+            "culture": "Northmen",
+            "playedIn": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Mikken",
+            "characterNr": 1706,
+            "culture": "Northmen",
+            "playedIn": [ [ "Season 1" ] ]
+          } }
+      ] },
+    { "Norvoshi":[  ] },
+    { "Pentoshi":[ { "Character":{
+            "Gender": "Male",
+            "Name": "Illyrio Mopatis",
+            "characterNr": 1520,
+            "culture": "Pentoshi",
+            "playedIn": [ [ "Season 1" ] ]
+          } } ] },
+    { "Qartheen":[ { "Character":{
+            "Gender": "Male",
+            "Name": "Xaro Xhoan Daxos",
+            "characterNr": 2122,
+            "culture": "Qartheen",
+            "playedIn": [ [ "Season 2" ] ]
+          } } ] },
+    { "Qohor":[ { "Character":{
+            "Gender": "Male",
+            "Name": "Tobho Mott",
+            "characterNr": 2013,
+            "culture": "Qohor",
+            "playedIn": [ [ "Season 1" ] ]
+          } } ] },
+    { "Reach":[ { "Character":{
+            "Gender": "Male",
+            "Name": "Loras Tyrell",
+            "characterNr": 640,
+            "culture": "Reach",
+            "playedIn": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+          } } ] },
+    { "Rhoynar":[  ] },
+    { "Rivermen":[
+        { "Character":{
+            "Gender": "Female",
+            "Name": "Catelyn Stark",
+            "characterNr": 232,
+            "culture": "Rivermen",
+            "playedIn": [ [ "Season 1", "Season 2", "Season 3" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Walder Frey",
+            "characterNr": 1093,
+            "culture": "Rivermen",
+            "playedIn": [ [ "Season 1", "Season 3", "Season 6" ] ]
+          } }
+      ] },
+    { "Sistermen":[  ] },
+    { "Stormlands":[ { "Character":{
+            "Gender": "Male",
+            "Name": "Renly Baratheon",
+            "characterNr": 862,
+            "culture": "Stormlands",
+            "playedIn": [ [ "Season 1", "Season 2" ] ]
+          } } ] },
+    { "Summer Isles":[  ] },
+    { "Thenn":[  ] },
+    { "Tyroshi":[  ] },
+    { "Valemen":[
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Eddison Tollet",
+            "characterNr": 341,
+            "culture": "Valemen",
+            "playedIn": [ [ "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Jon Arryn",
+            "characterNr": 572,
+            "culture": "Valemen",
+            "playedIn": [ [ "Season 1" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Mandon Moore",
+            "characterNr": 701,
+            "culture": "Valemen",
+            "playedIn": [ [ "Season 1", "Season 2" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Petyr Baelish",
+            "characterNr": 823,
+            "culture": "Valemen",
+            "playedIn": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Robert Arryn",
+            "characterNr": 894,
+            "culture": "Valemen",
+            "playedIn": [ [ "Season 1", "Season 4", "Season 5" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Vardis Egen",
+            "characterNr": 1068,
+            "culture": "Valemen",
+            "playedIn": [ [ "Season 1" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Waymar Royce",
+            "characterNr": 1104,
+            "culture": "Valemen",
+            "playedIn": [ [ "Season 1" ] ]
+          } }
+      ] },
+    { "Valyrian":[
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Aemon Targaryen",
+            "characterNr": 54,
+            "culture": "Valyrian",
+            "playedIn": [ [ "Season 1", "Season 3", "Season 4", "Season 5" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Viserys Targaryen",
+            "characterNr": 1079,
+            "culture": "Valyrian",
+            "playedIn": [ [ "Season 1" ] ]
+          } },
+        { "Character":{
+            "Gender": "Female",
+            "Name": "Daenerys Targaryen",
+            "characterNr": 1303,
+            "culture": "Valyrian",
+            "playedIn": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+          } }
+      ] },
+    { "Westerlands":[ { "Character":{
+            "Gender": "Male",
+            "Name": "Jaime Lannister",
+            "characterNr": 529,
+            "culture": "Westerlands",
+            "playedIn": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5" ] ]
+          } } ] },
+    { "Westerman":[ { "Character":{
+            "Gender": "Female",
+            "Name": "Cersei Lannister",
+            "characterNr": 238,
+            "culture": "Westerman",
+            "playedIn": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+          } } ] },
+    { "Westeros":[
+        { "Character":{
+            "Gender": "Female",
+            "Name": "Margaery Tyrell",
+            "characterNr": 16,
+            "culture": "Westeros",
+            "playedIn": [ [ "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Barristan Selmy",
+            "characterNr": 168,
+            "culture": "Westeros",
+            "playedIn": [ [ "Season 1", "Season 3", "Season 4", "Season 5" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Grenn",
+            "characterNr": 439,
+            "culture": "Westeros",
+            "playedIn": [ [ "Season 1", "Season 2", "Season 3", "Season 4" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Ilyn Payne",
+            "characterNr": 521,
+            "culture": "Westeros",
+            "playedIn": [ [ "Season 1", "Season 2" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Yoren",
+            "characterNr": 1132,
+            "culture": "Westeros",
+            "playedIn": [ [ "Season 1", "Season 2" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Davos Seaworth",
+            "characterNr": 1319,
+            "culture": "Westeros",
+            "playedIn": [ [ "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Luwin",
+            "characterNr": 1649,
+            "culture": "Westeros",
+            "playedIn": [ [ "Season 1", "Season 2" ] ]
+          } },
+        { "Character":{
+            "Gender": "Male",
+            "Name": "Mycah",
+            "characterNr": 1742,
+            "culture": "Westeros",
+            "playedIn": [ [ "Season 1" ] ]
+          } }
+      ] }
+  ] }

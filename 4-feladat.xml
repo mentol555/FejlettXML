@@ -1,0 +1,3195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TvSeries seasons="6">
+    <Season nr="1" characterCount="93">
+        <Character name="Walder">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Mordane">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Tywin Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Addam Marbrand">
+            <Allegiances>
+                <House>House Marbrand of Ashemark</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Aemon Targaryen">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Valyrian</Culture>
+        </Character>
+        <Character name="Alliser Thorne">
+            <Allegiances>
+                <House>House Thorne</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Arya Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Barristan Selmy">
+            <Allegiances>
+                <House>House Selmy of Harvest Hall</House>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Benjen Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Beric Dondarrion">
+            <Allegiances>
+                <House>House Dondarrion of Blackhaven</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Brandon Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Bronn">
+            <Allegiances>
+                <House>House Stokeworth of Stokeworth</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Catelyn Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+                <House>House Tully of Riverrun</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Rivermen</Culture>
+        </Character>
+        <Character name="Cersei Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Westerman</Culture>
+        </Character>
+        <Character name="Eddard Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Galbart Glover">
+            <Allegiances>
+                <House>House Glover of Deepwood Motte</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Grenn">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Ilyn Payne">
+            <Allegiances>
+                <House>House Payne</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Jaime Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Westerlands</Culture>
+        </Character>
+        <Character name="Janos Slynt">
+            <Allegiances>
+                <House>House Slynt of Harrenhal</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Jeor Mormont">
+            <Allegiances>
+                <House>House Mormont of Bear Island</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Joffrey Baratheon">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Jon Arryn">
+            <Allegiances>
+                <House>House Arryn of the Eyrie</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Jon Snow">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Jon Umber">
+            <Allegiances>
+                <House>House Umber of the Last Hearth</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Jory Cassel">
+            <Allegiances>
+                <House>House Cassel</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Joyeuse Erenford">
+            <Allegiances>
+                <House>House Erenford</House>
+                <House>House Frey of the Crossing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Kevan Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Lancel Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+                <House>House Lannister of Darry</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Loras Tyrell">
+            <Allegiances>
+                <House>House Tyrell of Highgarden</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Reach</Culture>
+        </Character>
+        <Character name="Lysa Arryn">
+            <Allegiances>
+                <House>House Arryn of the Eyrie</House>
+                <House>House Baelish of the Fingers</House>
+                <House>House Tully of Riverrun</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Maege Mormont">
+            <Allegiances>
+                <House>House Mormont of Bear Island</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Mandon Moore">
+            <Allegiances>
+                <House>House Moore</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Meryn Trant">
+            <Allegiances>
+                <House>House Trant of Gallowsgrey</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Myrcella Baratheon">
+            <Allegiances>
+                <House>House Baratheon of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Petyr Baelish">
+            <Allegiances>
+                <House>House Baelish of Harrenhal</House>
+                <House>House Baelish of the Fingers</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Pypar">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Renly Baratheon">
+            <Allegiances>
+                <House>House Baratheon of Storm's End</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Stormlands</Culture>
+        </Character>
+        <Character name="Rickard Karstark">
+            <Allegiances>
+                <House>House Karstark of Karhold</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Rickon Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Robert Arryn">
+            <Allegiances>
+                <House>House Arryn of the Eyrie</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Robert I Baratheon">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Rodrik Cassel">
+            <Allegiances>
+                <House>House Cassel</House>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Samwell Tarly">
+            <Allegiances>
+                <House>House Tarly of Horn Hill</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Andal</Culture>
+        </Character>
+        <Character name="Sandor Clegane">
+            <Allegiances>
+                <House>House Clegane</House>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Sansa Stark">
+            <Allegiances>
+                <House>House Baelish of Harrenhal</House>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Stevron Frey">
+            <Allegiances>
+                <House>House Frey of the Crossing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Theon Greyjoy">
+            <Allegiances>
+                <House>House Greyjoy of Pyke</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Ironborn</Culture>
+        </Character>
+        <Character name="Tommen Baratheon">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Tyrion Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Vardis Egen">
+            <Allegiances>
+                <House>House Arryn of the Eyrie</House>
+                <House>House Egen</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Viserys Targaryen">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valyrian</Culture>
+        </Character>
+        <Character name="Walder Frey">
+            <Allegiances>
+                <House>House Frey of the Crossing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Rivermen</Culture>
+        </Character>
+        <Character name="Waymar Royce">
+            <Allegiances>
+                <House>House Royce of Runestone</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Yoren">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Biter">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Chella daughter of Cheyk">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture>Mountain clans</Culture>
+        </Character>
+        <Character name="Daenerys Targaryen">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Valyrian</Culture>
+        </Character>
+        <Character name="Doreah">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Lysene</Culture>
+        </Character>
+        <Character name="Drogo">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Dothraki</Culture>
+        </Character>
+        <Character name="Gendry">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Gregor Clegane">
+            <Allegiances>
+                <House>House Clegane</House>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Hot Pie">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Illyrio Mopatis">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Pentoshi</Culture>
+        </Character>
+        <Character name="Irri">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Dothraki</Culture>
+        </Character>
+        <Character name="Jhiqui">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Dothraki</Culture>
+        </Character>
+        <Character name="Jonos Bracken">
+            <Allegiances>
+                <House>House Bracken of Stone Hedge</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Jorah Mormont">
+            <Allegiances>
+                <House>House Mormont of Bear Island</House>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Lommy">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Luwin">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Mago">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Dothraki</Culture>
+        </Character>
+        <Character name="Marillion">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Masha Heddle">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Mikken">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Mirri Maz Duur">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture>Lhazareen</Culture>
+        </Character>
+        <Character name="Mord">
+            <Allegiances>
+                <House>House Arryn of the Eyrie</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Mycah">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Nan">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Osha">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Othor">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Pycelle">
+            <Allegiances>
+                <House>House Baratheon of King's Landing</House>
+                <House>House Lannister of Casterly Rock</House>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Qotho">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Dothraki</Culture>
+        </Character>
+        <Character name="Rakharo">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Dothraki</Culture>
+        </Character>
+        <Character name="Rast">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Robb Stark">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Rorge">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Ryger Rivers">
+            <Allegiances>
+                <House>House Frey of the Crossing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Shae">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Stiv">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Syrio Forel">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Braavosi</Culture>
+        </Character>
+        <Character name="Timett, son of Timett">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Mountain clans</Culture>
+        </Character>
+        <Character name="Tobho Mott">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Qohor</Culture>
+        </Character>
+        <Character name="Varys">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+    </Season>
+    <Season nr="2" characterCount="86">
+        <Character name="Walder">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Balon Greyjoy">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Margaery Tyrell">
+            <Allegiances>
+                <House>House Tyrell of Highgarden</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Tywin Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Amory Lorch">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+                <House>House Lorch</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Arya Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Asha Greyjoy">
+            <Allegiances>
+                <House>House Greyjoy of Pyke</House>
+                <House>House Ironmaker</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Ironborn</Culture>
+        </Character>
+        <Character name="Brandon Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Brienne of Tarth">
+            <Allegiances>
+                <House>House Baratheon of Storm's End</House>
+                <House>House Stark of Winterfell</House>
+                <House>House Tarth of Evenfall Hall</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Bronn">
+            <Allegiances>
+                <House>House Stokeworth of Stokeworth</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Catelyn Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+                <House>House Tully of Riverrun</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Rivermen</Culture>
+        </Character>
+        <Character name="Cersei Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Westerman</Culture>
+        </Character>
+        <Character name="Dontos Hollard">
+            <Allegiances>
+                <House>House Hollard</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Eddison Tollet">
+            <Allegiances>
+                <House>House Tollett of the Grey Glen</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Grenn">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Ilyn Payne">
+            <Allegiances>
+                <House>House Payne</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Imry Florent">
+            <Allegiances>
+                <House>House Florent of Brightwater Keep</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Jaime Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Westerlands</Culture>
+        </Character>
+        <Character name="Janos Slynt">
+            <Allegiances>
+                <House>House Slynt of Harrenhal</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Jeor Mormont">
+            <Allegiances>
+                <House>House Mormont of Bear Island</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Joffrey Baratheon">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Jon Snow">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Kevan Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Lancel Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+                <House>House Lannister of Darry</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Loras Tyrell">
+            <Allegiances>
+                <House>House Tyrell of Highgarden</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Reach</Culture>
+        </Character>
+        <Character name="Mandon Moore">
+            <Allegiances>
+                <House>House Moore</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Melisandre">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture>Asshai</Culture>
+        </Character>
+        <Character name="Meryn Trant">
+            <Allegiances>
+                <House>House Trant of Gallowsgrey</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Myrcella Baratheon">
+            <Allegiances>
+                <House>House Baratheon of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Petyr Baelish">
+            <Allegiances>
+                <House>House Baelish of Harrenhal</House>
+                <House>House Baelish of the Fingers</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Podrick Payne">
+            <Allegiances>
+                <House>House Payne</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Qhorin">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Renly Baratheon">
+            <Allegiances>
+                <House>House Baratheon of Storm's End</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Stormlands</Culture>
+        </Character>
+        <Character name="Rickard Karstark">
+            <Allegiances>
+                <House>House Karstark of Karhold</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Rickon Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Rodrik Cassel">
+            <Allegiances>
+                <House>House Cassel</House>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Roose Bolton">
+            <Allegiances>
+                <House>House Bolton of the Dreadfort</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Samwell Tarly">
+            <Allegiances>
+                <House>House Tarly of Horn Hill</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Andal</Culture>
+        </Character>
+        <Character name="Sandor Clegane">
+            <Allegiances>
+                <House>House Clegane</House>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Sansa Stark">
+            <Allegiances>
+                <House>House Baelish of Harrenhal</House>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Theon Greyjoy">
+            <Allegiances>
+                <House>House Greyjoy of Pyke</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Ironborn</Culture>
+        </Character>
+        <Character name="Tommen Baratheon">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Torrhen Karstark">
+            <Allegiances>
+                <House>House Karstark of Karhold</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Tyrion Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Yoren">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Biter">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Craster">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Cressen">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Daenerys Targaryen">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Valyrian</Culture>
+        </Character>
+        <Character name="Dagmer">
+            <Allegiances>
+                <House>House Greyjoy of Pyke</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Ironborn</Culture>
+        </Character>
+        <Character name="Davos Seaworth">
+            <Allegiances>
+                <House>House Baratheon of Dragonstone</House>
+                <House>House Seaworth of Cape Wrath</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Doreah">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Lysene</Culture>
+        </Character>
+        <Character name="Drennan">
+            <Allegiances>
+                <House>House Greyjoy of Pyke</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Ironborn</Culture>
+        </Character>
+        <Character name="Drogo">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Dothraki</Culture>
+        </Character>
+        <Character name="Farlen">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Gendry">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Gilly">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Gregor Clegane">
+            <Allegiances>
+                <House>House Clegane</House>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Hallyne">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Hot Pie">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Irri">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Dothraki</Culture>
+        </Character>
+        <Character name="Jaqen H'ghar">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Jorah Mormont">
+            <Allegiances>
+                <House>House Mormont of Bear Island</House>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Lommy">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Lord of Bones">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Lorren">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Luwin">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Marei">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Matthos Seaworth">
+            <Allegiances>
+                <House>House Seaworth of Cape Wrath</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Osha">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Polliver">
+            <Allegiances>
+                <House>House Clegane</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Pyat Pree">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Pycelle">
+            <Allegiances>
+                <House>House Baratheon of King's Landing</House>
+                <House>House Lannister of Casterly Rock</House>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Quaithe">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture>Asshai</Culture>
+        </Character>
+        <Character name="Rakharo">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Dothraki</Culture>
+        </Character>
+        <Character name="Robb Stark">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Rorge">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Salladhor Saan">
+            <Allegiances>
+                <House>House Baratheon of Dragonstone</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Lysene</Culture>
+        </Character>
+        <Character name="Selyse Florent">
+            <Allegiances>
+                <House>House Baratheon of Dragonstone</House>
+                <House>House Florent of Brightwater Keep</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Shae">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Stannis Baratheon">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="The Tickler">
+            <Allegiances>
+                <House>House Clegane</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Timett, son of Timett">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Mountain clans</Culture>
+        </Character>
+        <Character name="Varys">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Xaro Xhoan Daxos">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Qartheen</Culture>
+        </Character>
+        <Character name="Ygritte">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+    </Season>
+    <Season nr="3" characterCount="81">
+        <Character name="Walder">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Balon Greyjoy">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Margaery Tyrell">
+            <Allegiances>
+                <House>House Tyrell of Highgarden</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Tywin Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Aemon Targaryen">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Valyrian</Culture>
+        </Character>
+        <Character name="Arya Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Asha Greyjoy">
+            <Allegiances>
+                <House>House Greyjoy of Pyke</House>
+                <House>House Ironmaker</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Ironborn</Culture>
+        </Character>
+        <Character name="Barristan Selmy">
+            <Allegiances>
+                <House>House Selmy of Harvest Hall</House>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Beric Dondarrion">
+            <Allegiances>
+                <House>House Dondarrion of Blackhaven</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Brandon Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Brienne of Tarth">
+            <Allegiances>
+                <House>House Baratheon of Storm's End</House>
+                <House>House Stark of Winterfell</House>
+                <House>House Tarth of Evenfall Hall</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Bronn">
+            <Allegiances>
+                <House>House Stokeworth of Stokeworth</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Brynden Tully">
+            <Allegiances>
+                <House>House Arryn of the Eyrie</House>
+                <House>House Tully of Riverrun</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Rivermen</Culture>
+        </Character>
+        <Character name="Catelyn Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+                <House>House Tully of Riverrun</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Rivermen</Culture>
+        </Character>
+        <Character name="Cersei Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Westerman</Culture>
+        </Character>
+        <Character name="Eddison Tollet">
+            <Allegiances>
+                <House>House Tollett of the Grey Glen</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Edmure Tully">
+            <Allegiances>
+                <House>House Tully of Riverrun</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Rivermen</Culture>
+        </Character>
+        <Character name="Grenn">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Jaime Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Westerlands</Culture>
+        </Character>
+        <Character name="Jeor Mormont">
+            <Allegiances>
+                <House>House Mormont of Bear Island</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Joffrey Baratheon">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Jojen Reed">
+            <Allegiances>
+                <House>House Reed of Greywater Watch</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Crannogmen</Culture>
+        </Character>
+        <Character name="Jon Snow">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Joyeuse Erenford">
+            <Allegiances>
+                <House>House Erenford</House>
+                <House>House Frey of the Crossing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Loras Tyrell">
+            <Allegiances>
+                <House>House Tyrell of Highgarden</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Reach</Culture>
+        </Character>
+        <Character name="Lothar Frey">
+            <Allegiances>
+                <House>House Frey of the Crossing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Rivermen</Culture>
+        </Character>
+        <Character name="Martyn Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Meera Reed">
+            <Allegiances>
+                <House>House Reed of Greywater Watch</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Crannogmen</Culture>
+        </Character>
+        <Character name="Melisandre">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture>Asshai</Culture>
+        </Character>
+        <Character name="Meryn Trant">
+            <Allegiances>
+                <House>House Trant of Gallowsgrey</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Olenna Redwyne">
+            <Allegiances>
+                <House>House Redwyne of the Arbor</House>
+                <House>House Tyrell of Highgarden</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Petyr Baelish">
+            <Allegiances>
+                <House>House Baelish of Harrenhal</House>
+                <House>House Baelish of the Fingers</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Podrick Payne">
+            <Allegiances>
+                <House>House Payne</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Pypar">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Ramsay Snow">
+            <Allegiances>
+                <House>House Bolton of the Dreadfort</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Rickard Karstark">
+            <Allegiances>
+                <House>House Karstark of Karhold</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Rickon Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Roose Bolton">
+            <Allegiances>
+                <House>House Bolton of the Dreadfort</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Roslin Frey">
+            <Allegiances>
+                <House>House Frey of the Crossing</House>
+                <House>House Tully of Riverrun</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Rivermen</Culture>
+        </Character>
+        <Character name="Samwell Tarly">
+            <Allegiances>
+                <House>House Tarly of Horn Hill</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Andal</Culture>
+        </Character>
+        <Character name="Sandor Clegane">
+            <Allegiances>
+                <House>House Clegane</House>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Sansa Stark">
+            <Allegiances>
+                <House>House Baelish of Harrenhal</House>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Shireen Baratheon">
+            <Allegiances>
+                <House>House Baratheon of Dragonstone</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Theon Greyjoy">
+            <Allegiances>
+                <House>House Greyjoy of Pyke</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Ironborn</Culture>
+        </Character>
+        <Character name="Tyrion Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Walder Frey">
+            <Allegiances>
+                <House>House Frey of the Crossing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Rivermen</Culture>
+        </Character>
+        <Character name="Walder Frey">
+            <Allegiances>
+                <House>House Frey of the Crossing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Rivermen</Culture>
+        </Character>
+        <Character name="Wendel Manderly">
+            <Allegiances>
+                <House>House Manderly of White Harbor</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Anguy">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Craster">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Daario Naharis">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Tyroshi</Culture>
+        </Character>
+        <Character name="Daenerys Targaryen">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Valyrian</Culture>
+        </Character>
+        <Character name="Davos Seaworth">
+            <Allegiances>
+                <House>House Baratheon of Dragonstone</House>
+                <House>House Seaworth of Cape Wrath</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Gendry">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Gilly">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Grey Worm">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Hot Pie">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Jorah Mormont">
+            <Allegiances>
+                <House>House Mormont of Bear Island</House>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Karl">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Kraznys mo Nakloz">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Astapori</Culture>
+        </Character>
+        <Character name="Lord of Bones">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Mance Rayder">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Free folk</Culture>
+        </Character>
+        <Character name="Marei">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Mero">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Braavosi</Culture>
+        </Character>
+        <Character name="Missandei">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Naathi</Culture>
+        </Character>
+        <Character name="Orell">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Osha">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Prendahl na Ghezn">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Ghiscari</Culture>
+        </Character>
+        <Character name="Pycelle">
+            <Allegiances>
+                <House>House Baratheon of King's Landing</House>
+                <House>House Lannister of Casterly Rock</House>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Qyburn">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Rast">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Robb Stark">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Salladhor Saan">
+            <Allegiances>
+                <House>House Baratheon of Dragonstone</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Lysene</Culture>
+        </Character>
+        <Character name="Selyse Florent">
+            <Allegiances>
+                <House>House Baratheon of Dragonstone</House>
+                <House>House Florent of Brightwater Keep</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Shae">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Stannis Baratheon">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Thoros of Myr">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Myrish</Culture>
+        </Character>
+        <Character name="Tormund">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Varys">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Walton">
+            <Allegiances>
+                <House>House Bolton of the Dreadfort</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Ygritte">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+    </Season>
+    <Season nr="4" characterCount="79">
+        <Character name="Walder">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Margaery Tyrell">
+            <Allegiances>
+                <House>House Tyrell of Highgarden</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Tywin Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Aemon Targaryen">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Valyrian</Culture>
+        </Character>
+        <Character name="Alliser Thorne">
+            <Allegiances>
+                <House>House Thorne</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Anya Waynwood">
+            <Allegiances>
+                <House>House Waynwood of Ironoaks</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Arya Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Asha Greyjoy">
+            <Allegiances>
+                <House>House Greyjoy of Pyke</House>
+                <House>House Ironmaker</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Ironborn</Culture>
+        </Character>
+        <Character name="Barristan Selmy">
+            <Allegiances>
+                <House>House Selmy of Harvest Hall</House>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Beric Dondarrion">
+            <Allegiances>
+                <House>House Dondarrion of Blackhaven</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Brandon Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Brienne of Tarth">
+            <Allegiances>
+                <House>House Baratheon of Storm's End</House>
+                <House>House Stark of Winterfell</House>
+                <House>House Tarth of Evenfall Hall</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Bronn">
+            <Allegiances>
+                <House>House Stokeworth of Stokeworth</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Brynden Tully">
+            <Allegiances>
+                <House>House Arryn of the Eyrie</House>
+                <House>House Tully of Riverrun</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Rivermen</Culture>
+        </Character>
+        <Character name="Cersei Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Westerman</Culture>
+        </Character>
+        <Character name="Dontos Hollard">
+            <Allegiances>
+                <House>House Hollard</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Eddison Tollet">
+            <Allegiances>
+                <House>House Tollett of the Grey Glen</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Ellaria Sand">
+            <Allegiances>
+                <House>House Nymeros Martell of Sunspear</House>
+                <House>House Uller of Hellholt</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Dornish</Culture>
+        </Character>
+        <Character name="Grenn">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Jaime Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Westerlands</Culture>
+        </Character>
+        <Character name="Janos Slynt">
+            <Allegiances>
+                <House>House Slynt of Harrenhal</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Joffrey Baratheon">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Jojen Reed">
+            <Allegiances>
+                <House>House Reed of Greywater Watch</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Crannogmen</Culture>
+        </Character>
+        <Character name="Jon Snow">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Loras Tyrell">
+            <Allegiances>
+                <House>House Tyrell of Highgarden</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Reach</Culture>
+        </Character>
+        <Character name="Lysa Arryn">
+            <Allegiances>
+                <House>House Arryn of the Eyrie</House>
+                <House>House Baelish of the Fingers</House>
+                <House>House Tully of Riverrun</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Mace Tyrell">
+            <Allegiances>
+                <House>House Tyrell of Highgarden</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Meera Reed">
+            <Allegiances>
+                <House>House Reed of Greywater Watch</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Crannogmen</Culture>
+        </Character>
+        <Character name="Melisandre">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture>Asshai</Culture>
+        </Character>
+        <Character name="Meryn Trant">
+            <Allegiances>
+                <House>House Trant of Gallowsgrey</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Olenna Redwyne">
+            <Allegiances>
+                <House>House Redwyne of the Arbor</House>
+                <House>House Tyrell of Highgarden</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Petyr Baelish">
+            <Allegiances>
+                <House>House Baelish of Harrenhal</House>
+                <House>House Baelish of the Fingers</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Podrick Payne">
+            <Allegiances>
+                <House>House Payne</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Pypar">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Ramsay Snow">
+            <Allegiances>
+                <House>House Bolton of the Dreadfort</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Rickon Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Robert Arryn">
+            <Allegiances>
+                <House>House Arryn of the Eyrie</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Roose Bolton">
+            <Allegiances>
+                <House>House Bolton of the Dreadfort</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Samwell Tarly">
+            <Allegiances>
+                <House>House Tarly of Horn Hill</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Andal</Culture>
+        </Character>
+        <Character name="Sandor Clegane">
+            <Allegiances>
+                <House>House Clegane</House>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Sansa Stark">
+            <Allegiances>
+                <House>House Baelish of Harrenhal</House>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Shireen Baratheon">
+            <Allegiances>
+                <House>House Baratheon of Dragonstone</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Theon Greyjoy">
+            <Allegiances>
+                <House>House Greyjoy of Pyke</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Ironborn</Culture>
+        </Character>
+        <Character name="Tommen Baratheon">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Tyrion Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Walda Frey">
+            <Allegiances>
+                <House>House Bolton of the Dreadfort</House>
+                <House>House Frey of the Crossing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Yohn Royce">
+            <Allegiances>
+                <House>House Royce of Runestone</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Biter">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Brynden Rivers">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valyrian</Culture>
+        </Character>
+        <Character name="Daario Naharis">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Tyroshi</Culture>
+        </Character>
+        <Character name="Daemon Sand">
+            <Allegiances>
+                <House>House Allyrion of Godsgrace</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Dornish</Culture>
+        </Character>
+        <Character name="Daenerys Targaryen">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Valyrian</Culture>
+        </Character>
+        <Character name="Davos Seaworth">
+            <Allegiances>
+                <House>House Baratheon of Dragonstone</House>
+                <House>House Seaworth of Cape Wrath</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Gilly">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Gregor Clegane">
+            <Allegiances>
+                <House>House Clegane</House>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Grey Worm">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Hizdahr zo Loraq">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Ghiscari</Culture>
+        </Character>
+        <Character name="Hot Pie">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Jorah Mormont">
+            <Allegiances>
+                <House>House Mormont of Bear Island</House>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Karl">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Mance Rayder">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Free folk</Culture>
+        </Character>
+        <Character name="Marei">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Missandei">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Naathi</Culture>
+        </Character>
+        <Character name="Oberyn Nymeros Martell">
+            <Allegiances>
+                <House>House Nymeros Martell of Sunspear</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Dornish</Culture>
+        </Character>
+        <Character name="Polliver">
+            <Allegiances>
+                <House>House Clegane</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Pycelle">
+            <Allegiances>
+                <House>House Baratheon of King's Landing</House>
+                <House>House Lannister of Casterly Rock</House>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Qyburn">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Rast">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Rorge">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Salladhor Saan">
+            <Allegiances>
+                <House>House Baratheon of Dragonstone</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Lysene</Culture>
+        </Character>
+        <Character name="Selyse Florent">
+            <Allegiances>
+                <House>House Baratheon of Dragonstone</House>
+                <House>House Florent of Brightwater Keep</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Shae">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Stannis Baratheon">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Styr">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Ternesio Terys">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Braavosi</Culture>
+        </Character>
+        <Character name="Tormund">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Tycho Nestoris">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Braavosi</Culture>
+        </Character>
+        <Character name="Varys">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Ygritte">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+    </Season>
+    <Season nr="5" characterCount="60">
+        <Character name="">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture>Braavosi</Culture>
+        </Character>
+        <Character name="High Septon">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Margaery Tyrell">
+            <Allegiances>
+                <House>House Tyrell of Highgarden</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Unella">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Aemon Targaryen">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Valyrian</Culture>
+        </Character>
+        <Character name="Alliser Thorne">
+            <Allegiances>
+                <House>House Thorne</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Arya Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Barristan Selmy">
+            <Allegiances>
+                <House>House Selmy of Harvest Hall</House>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Bowen Marsh">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Brienne of Tarth">
+            <Allegiances>
+                <House>House Baratheon of Storm's End</House>
+                <House>House Stark of Winterfell</House>
+                <House>House Tarth of Evenfall Hall</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Cersei Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Westerman</Culture>
+        </Character>
+        <Character name="Doran Martell">
+            <Allegiances>
+                <House>House Nymeros Martell of Sunspear</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Dornish</Culture>
+        </Character>
+        <Character name="Eddison Tollet">
+            <Allegiances>
+                <House>House Tollett of the Grey Glen</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Ellaria Sand">
+            <Allegiances>
+                <House>House Nymeros Martell of Sunspear</House>
+                <House>House Uller of Hellholt</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Dornish</Culture>
+        </Character>
+        <Character name="Jaime Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Westerlands</Culture>
+        </Character>
+        <Character name="Janos Slynt">
+            <Allegiances>
+                <House>House Slynt of Harrenhal</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Jon Snow">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Kevan Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Lancel Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+                <House>House Lannister of Darry</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Loras Tyrell">
+            <Allegiances>
+                <House>House Tyrell of Highgarden</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Reach</Culture>
+        </Character>
+        <Character name="Mace Tyrell">
+            <Allegiances>
+                <House>House Tyrell of Highgarden</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Melisandre">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture>Asshai</Culture>
+        </Character>
+        <Character name="Meryn Trant">
+            <Allegiances>
+                <House>House Trant of Gallowsgrey</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Myrcella Baratheon">
+            <Allegiances>
+                <House>House Baratheon of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Petyr Baelish">
+            <Allegiances>
+                <House>House Baelish of Harrenhal</House>
+                <House>House Baelish of the Fingers</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Podrick Payne">
+            <Allegiances>
+                <House>House Payne</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Ramsay Snow">
+            <Allegiances>
+                <House>House Bolton of the Dreadfort</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Robert Arryn">
+            <Allegiances>
+                <House>House Arryn of the Eyrie</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Roose Bolton">
+            <Allegiances>
+                <House>House Bolton of the Dreadfort</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Samwell Tarly">
+            <Allegiances>
+                <House>House Tarly of Horn Hill</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Andal</Culture>
+        </Character>
+        <Character name="Sansa Stark">
+            <Allegiances>
+                <House>House Baelish of Harrenhal</House>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Shireen Baratheon">
+            <Allegiances>
+                <House>House Baratheon of Dragonstone</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Theon Greyjoy">
+            <Allegiances>
+                <House>House Greyjoy of Pyke</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Ironborn</Culture>
+        </Character>
+        <Character name="Tommen Baratheon">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Trystane Martell">
+            <Allegiances>
+                <House>House Nymeros Martell of Sunspear</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Dornish</Culture>
+        </Character>
+        <Character name="Tyrion Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Walda Frey">
+            <Allegiances>
+                <House>House Bolton of the Dreadfort</House>
+                <House>House Frey of the Crossing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Areo Hotah">
+            <Allegiances>
+                <House>House Nymeros Martell of Sunspear</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Norvoshi</Culture>
+        </Character>
+        <Character name="Daario Naharis">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Tyroshi</Culture>
+        </Character>
+        <Character name="Daenerys Targaryen">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Valyrian</Culture>
+        </Character>
+        <Character name="Davos Seaworth">
+            <Allegiances>
+                <House>House Baratheon of Dragonstone</House>
+                <House>House Seaworth of Cape Wrath</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Gilly">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Gregor Clegane">
+            <Allegiances>
+                <House>House Clegane</House>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Grey Worm">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Hizdahr zo Loraq">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Ghiscari</Culture>
+        </Character>
+        <Character name="Jorah Mormont">
+            <Allegiances>
+                <House>House Mormont of Bear Island</House>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Maggy">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Mance Rayder">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Free folk</Culture>
+        </Character>
+        <Character name="Marei">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Missandei">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Naathi</Culture>
+        </Character>
+        <Character name="Nymeria Sand">
+            <Allegiances>
+                <House>House Nymeros Martell of Sunspear</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Dornish</Culture>
+        </Character>
+        <Character name="Obara Sand">
+            <Allegiances>
+                <House>House Nymeros Martell of Sunspear</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Dornish</Culture>
+        </Character>
+        <Character name="Pycelle">
+            <Allegiances>
+                <House>House Baratheon of King's Landing</House>
+                <House>House Lannister of Casterly Rock</House>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Qyburn">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Stannis Baratheon">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Tormund">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Tycho Nestoris">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Braavosi</Culture>
+        </Character>
+        <Character name="Tyene Sand">
+            <Allegiances>
+                <House>House Nymeros Martell of Sunspear</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Dornish</Culture>
+        </Character>
+        <Character name="Varys">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Wun Weg Wun Dar Wun">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+    </Season>
+    <Season nr="6" characterCount="83">
+        <Character name="Walder">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture>Braavosi</Culture>
+        </Character>
+        <Character name="Balon Greyjoy">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="High Septon">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Margaery Tyrell">
+            <Allegiances>
+                <House>House Tyrell of Highgarden</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Unella">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Aeron Greyjoy">
+            <Allegiances>
+                <House>House Greyjoy of Pyke</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Ironborn</Culture>
+        </Character>
+        <Character name="Aerys II">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Alliser Thorne">
+            <Allegiances>
+                <House>House Thorne</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Arthur Dayne">
+            <Allegiances>
+                <House>House Dayne of Starfall</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Arya Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Benjen Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Beric Dondarrion">
+            <Allegiances>
+                <House>House Dondarrion of Blackhaven</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Brandon Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Brienne of Tarth">
+            <Allegiances>
+                <House>House Baratheon of Storm's End</House>
+                <House>House Stark of Winterfell</House>
+                <House>House Tarth of Evenfall Hall</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Bronn">
+            <Allegiances>
+                <House>House Stokeworth of Stokeworth</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Brynden Tully">
+            <Allegiances>
+                <House>House Arryn of the Eyrie</House>
+                <House>House Tully of Riverrun</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Rivermen</Culture>
+        </Character>
+        <Character name="Cersei Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Westerman</Culture>
+        </Character>
+        <Character name="Dickon Tarly">
+            <Allegiances>
+                <House>House Tarly of Horn Hill</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Doran Martell">
+            <Allegiances>
+                <House>House Nymeros Martell of Sunspear</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Dornish</Culture>
+        </Character>
+        <Character name="Eddard Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Eddison Tollet">
+            <Allegiances>
+                <House>House Tollett of the Grey Glen</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Edmure Tully">
+            <Allegiances>
+                <House>House Tully of Riverrun</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Rivermen</Culture>
+        </Character>
+        <Character name="Gerold Hightower">
+            <Allegiances>
+                <House>House Hightower of the Hightower</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Howland Reed">
+            <Allegiances>
+                <House>House Reed of Greywater Watch</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Crannogmen</Culture>
+        </Character>
+        <Character name="Jon Snow">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Jon Umber">
+            <Allegiances>
+                <House>House Umber of the Last Hearth</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Kevan Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Loras Tyrell">
+            <Allegiances>
+                <House>House Tyrell of Highgarden</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Reach</Culture>
+        </Character>
+        <Character name="Lyanna Mormont">
+            <Allegiances>
+                <House>House Mormont of Bear Island</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Mace Tyrell">
+            <Allegiances>
+                <House>House Tyrell of Highgarden</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Meera Reed">
+            <Allegiances>
+                <House>House Reed of Greywater Watch</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Crannogmen</Culture>
+        </Character>
+        <Character name="Melessa Florent">
+            <Allegiances>
+                <House>House Florent of Brightwater Keep</House>
+                <House>House Tarly of Horn Hill</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Melisandre">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture>Asshai</Culture>
+        </Character>
+        <Character name="Myrcella Baratheon">
+            <Allegiances>
+                <House>House Baratheon of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Olenna Redwyne">
+            <Allegiances>
+                <House>House Redwyne of the Arbor</House>
+                <House>House Tyrell of Highgarden</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Othell Yarwyck">
+            <Allegiances>
+                <House>House Yarwyck</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Petyr Baelish">
+            <Allegiances>
+                <House>House Baelish of Harrenhal</House>
+                <House>House Baelish of the Fingers</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Podrick Payne">
+            <Allegiances>
+                <House>House Payne</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Ramsay Snow">
+            <Allegiances>
+                <House>House Bolton of the Dreadfort</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Randyll Tarly">
+            <Allegiances>
+                <House>House Tarly of Horn Hill</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Rickard Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Robett Glover">
+            <Allegiances>
+                <House>House Glover of Deepwood Motte</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Roose Bolton">
+            <Allegiances>
+                <House>House Bolton of the Dreadfort</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Samwell Tarly">
+            <Allegiances>
+                <House>House Tarly of Horn Hill</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Andal</Culture>
+        </Character>
+        <Character name="Sandor Clegane">
+            <Allegiances>
+                <House>House Clegane</House>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Sansa Stark">
+            <Allegiances>
+                <House>House Baelish of Harrenhal</House>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Talla Tarly">
+            <Allegiances>
+                <House>House Tarly of Horn Hill</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Theon Greyjoy">
+            <Allegiances>
+                <House>House Greyjoy of Pyke</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Ironborn</Culture>
+        </Character>
+        <Character name="Trystane Martell">
+            <Allegiances>
+                <House>House Nymeros Martell of Sunspear</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Dornish</Culture>
+        </Character>
+        <Character name="Tyrion Lannister">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Walda Frey">
+            <Allegiances>
+                <House>House Bolton of the Dreadfort</House>
+                <House>House Frey of the Crossing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Walder Frey">
+            <Allegiances>
+                <House>House Frey of the Crossing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Rivermen</Culture>
+        </Character>
+        <Character name="Walder Frey">
+            <Allegiances>
+                <House>House Frey of the Crossing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Rivermen</Culture>
+        </Character>
+        <Character name="Yohn Royce">
+            <Allegiances>
+                <House>House Royce of Runestone</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valemen</Culture>
+        </Character>
+        <Character name="Aggo">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Dothraki</Culture>
+        </Character>
+        <Character name="Areo Hotah">
+            <Allegiances>
+                <House>House Nymeros Martell of Sunspear</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Norvoshi</Culture>
+        </Character>
+        <Character name="Brynden Rivers">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Valyrian</Culture>
+        </Character>
+        <Character name="Caleotte">
+            <Allegiances>
+                <House>House Nymeros Martell of Sunspear</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Daario Naharis">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Tyroshi</Culture>
+        </Character>
+        <Character name="Daenerys Targaryen">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Valyrian</Culture>
+        </Character>
+        <Character name="Davos Seaworth">
+            <Allegiances>
+                <House>House Baratheon of Dragonstone</House>
+                <House>House Seaworth of Cape Wrath</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Westeros</Culture>
+        </Character>
+        <Character name="Gilly">
+            <Allegiances/>
+            <Gender>Female</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Gregor Clegane">
+            <Allegiances>
+                <House>House Clegane</House>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Grey Worm">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Iggo">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Dothraki</Culture>
+        </Character>
+        <Character name="Jaqen H'ghar">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Jorah Mormont">
+            <Allegiances>
+                <House>House Mormont of Bear Island</House>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Lem">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Lyanna Stark">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Northmen</Culture>
+        </Character>
+        <Character name="Missandei">
+            <Allegiances>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Naathi</Culture>
+        </Character>
+        <Character name="Moro">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Dothraki</Culture>
+        </Character>
+        <Character name="Nan">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Nymeria Sand">
+            <Allegiances>
+                <House>House Nymeros Martell of Sunspear</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Dornish</Culture>
+        </Character>
+        <Character name="Obara Sand">
+            <Allegiances>
+                <House>House Nymeros Martell of Sunspear</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Dornish</Culture>
+        </Character>
+        <Character name="Osha">
+            <Allegiances>
+                <House>House Stark of Winterfell</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Pycelle">
+            <Allegiances>
+                <House>House Baratheon of King's Landing</House>
+                <House>House Lannister of Casterly Rock</House>
+                <House>House Targaryen of King's Landing</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Qyburn">
+            <Allegiances>
+                <House>House Lannister of Casterly Rock</House>
+            </Allegiances>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Thoros of Myr">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Myrish</Culture>
+        </Character>
+        <Character name="Tormund">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture>Free Folk</Culture>
+        </Character>
+        <Character name="Tyene Sand">
+            <Allegiances>
+                <House>House Nymeros Martell of Sunspear</House>
+            </Allegiances>
+            <Gender>Female</Gender>
+            <Culture>Dornish</Culture>
+        </Character>
+        <Character name="Varys">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+        <Character name="Wun Weg Wun Dar Wun">
+            <Allegiances/>
+            <Gender>Male</Gender>
+            <Culture/>
+        </Character>
+    </Season>
+</TvSeries>

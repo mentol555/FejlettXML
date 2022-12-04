@@ -1,0 +1,326 @@
+{ "Characters":[
+        { "Femalecharacters":[
+                { "Alia of Braavos":{
+                        "LetterCount": 13,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Alyssa Arryn":{
+                        "LetterCount": 11,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Arryn of the Eyrie" ]
+                    } },
+                { "Becca":{
+                        "LetterCount": 5,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Arryn of the Eyrie" ]
+                    } },
+                { "Bessa":{
+                        "LetterCount": 5,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Bethany Redwyne":{
+                        "LetterCount": 14,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Redwyne of the Arbor", "House Rowan of Goldengrove" ]
+                    } },
+                { "Buu":{
+                        "LetterCount": 3,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Daeryssa":{
+                        "LetterCount": 8,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Hali":{
+                        "LetterCount": 4,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Jeyne Royce":{
+                        "LetterCount": 10,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Arryn of the Eyrie", "House Royce of Runestone" ]
+                    } },
+                { "Shella":{
+                        "LetterCount": 6,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Tya Lannister":{
+                        "LetterCount": 12,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Baratheon of Storm's End", "House Lannister of Casterly Rock" ]
+                    } }
+            ] },
+        { "Malecharacters":[
+                { "Aethelmure":{
+                        "LetterCount": 10,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Ayrmidon":{
+                        "LetterCount": 8,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Bass":{
+                        "LetterCount": 4,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Bharbo":{
+                        "LetterCount": 6,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Borcas":{
+                        "LetterCount": 6,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Byan Votyris":{
+                        "LetterCount": 11,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Chiggen":{
+                        "LetterCount": 7,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Cohollo":{
+                        "LetterCount": 7,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Conn son of Coratt":{
+                        "LetterCount": 15,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Coratt":{
+                        "LetterCount": 6,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Dacks":{
+                        "LetterCount": 5,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Redfort of Redfort" ]
+                    } },
+                { "Donnis":{
+                        "LetterCount": 6,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Stark of Winterfell" ]
+                    } },
+                { "Fogo":{
+                        "LetterCount": 4,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Gladden Wylde":{
+                        "LetterCount": 12,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Wylde of Rain House" ]
+                    } },
+                { "Godwyn":{
+                        "LetterCount": 6,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Lannister of Casterly Rock" ]
+                    } },
+                { "Gowen Baratheon":{
+                        "LetterCount": 14,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Baratheon of Storm's End" ]
+                    } },
+                { "Gurn":{
+                        "LetterCount": 4,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Haggo":{
+                        "LetterCount": 5,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Heward":{
+                        "LetterCount": 6,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Stark of Winterfell" ]
+                    } },
+                { "Hoare":{
+                        "LetterCount": 5,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Hoare of Orkmont" ]
+                    } },
+                { "Hugh":{
+                        "LetterCount": 4,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Arryn of the Eyrie" ]
+                    } },
+                { "Jafer Flowers":{
+                        "LetterCount": 12,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Jaggot":{
+                        "LetterCount": 6,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Joss":{
+                        "LetterCount": 4,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Jyck":{
+                        "LetterCount": 4,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Lannister of Casterly Rock" ]
+                    } },
+                { "Ketter":{
+                        "LetterCount": 6,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Kurleket":{
+                        "LetterCount": 8,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Bracken of Stone Hedge" ]
+                    } },
+                { "Lew":{
+                        "LetterCount": 3,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Stark of Winterfell" ]
+                    } },
+                { "Lharys":{
+                        "LetterCount": 6,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Bracken of Stone Hedge" ]
+                    } },
+                { "Malleon":{
+                        "LetterCount": 7,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Mallor":{
+                        "LetterCount": 6,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Lannister of Casterly Rock" ]
+                    } },
+                { "Mark Ryswell":{
+                        "LetterCount": 11,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Ryswell of the Rills" ]
+                    } },
+                { "Mohor":{
+                        "LetterCount": 5,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Bracken of Stone Hedge" ]
+                    } },
+                { "Moreo Tumitis":{
+                        "LetterCount": 12,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Morrec":{
+                        "LetterCount": 6,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Lannister of Casterly Rock" ]
+                    } },
+                { "Ogo":{
+                        "LetterCount": 3,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Othor":{
+                        "LetterCount": 5,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Pate":{
+                        "LetterCount": 4,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Qos":{
+                        "LetterCount": 3,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Qotho":{
+                        "LetterCount": 5,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Rainbow Knight":{
+                        "LetterCount": 13,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Rudge":{
+                        "LetterCount": 5,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Stiv":{
+                        "LetterCount": 4,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Theo Frey":{
+                        "LetterCount": 8,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Frey of the Crossing" ]
+                    } },
+                { "Torrek":{
+                        "LetterCount": 6,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Tregar":{
+                        "LetterCount": 6,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Lannister of Casterly Rock" ]
+                    } },
+                { "Ulf son of Umar":{
+                        "LetterCount": 12,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Umar":{
+                        "LetterCount": 4,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Varly":{
+                        "LetterCount": 5,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Stark of Winterfell" ]
+                    } },
+                { "Wallen":{
+                        "LetterCount": 6,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Wayn":{
+                        "LetterCount": 4,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Stark of Winterfell" ]
+                    } },
+                { "Willum":{
+                        "LetterCount": 6,
+                        "books": "A Game of Thrones",
+                        "allegiances": [  ]
+                    } },
+                { "Wyl":{
+                        "LetterCount": 3,
+                        "books": "A Game of Thrones",
+                        "allegiances": [ "House Stark of Winterfell" ]
+                    } }
+            ] }
+    ] }

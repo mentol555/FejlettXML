@@ -1,0 +1,37 @@
+{ "Books":[
+        { "Book":{
+                "releaseYear": "2011",
+                "authors": [ { "author":"George R. R. Martin" } ],
+                "title": "A Dance with Dragons",
+                "publisher": "Bantam Books",
+                "povCharacterCount": 18
+            } },
+        { "Book":{
+                "releaseYear": "2000",
+                "authors": [ { "author":"George R. R. Martin" } ],
+                "title": "A Storm of Swords",
+                "publisher": "Bantam Books",
+                "povCharacterCount": 12
+            } },
+        { "Book":{
+                "releaseYear": "2005",
+                "authors": [ { "author":"George R. R. Martin" } ],
+                "title": "A Feast for Crows",
+                "publisher": "Bantam Books",
+                "povCharacterCount": 12
+            } },
+        { "Book":{
+                "releaseYear": "1999",
+                "authors": [ { "author":"George R. R. Martin" } ],
+                "title": "A Clash of Kings",
+                "publisher": "Bantam Books",
+                "povCharacterCount": 10
+            } },
+        { "Book":{
+                "releaseYear": "1996",
+                "authors": [ { "author":"George R. R. Martin" } ],
+                "title": "A Game of Thrones",
+                "publisher": "Bantam Books",
+                "povCharacterCount": 9
+            } }
+    ] }
