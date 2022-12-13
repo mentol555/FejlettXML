@@ -13,6 +13,11 @@ declare namespace array="http://www.w3.org/2005/xpath-functions/array";
 declare option output:method "json";
 declare option output:indent "yes";
 
+declare function local:tokenizeDate($date) {
+    let $releaseDate := xs:string(xs:date(xs:dateTime($date)))
+    return fn:tokenize($releaseDate, "-")[1]
+};
+
 let $books := fn:json-doc("data.json")?books?*
 
 return map {
@@ -28,10 +33,7 @@ return map {
         return
         map {
             "Book" : map {
-                "releaseYear": 
-                    let $releaseDate := xs:string(xs:date(xs:dateTime($book?released)))
-                    return fn:tokenize($releaseDate, "-")[1]
-                ,
+                "releaseYear": local:tokenizeDate($book?released),
                 "authors": array{ 
                     for $author in fn:distinct-values($book?authors)
                         return map {

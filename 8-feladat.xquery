@@ -14,18 +14,21 @@ declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
 declare option output:method "json";
 declare option output:indent "yes";
 
+declare function local:countSwornMembers($house) {
+    let $count := fn:count(fn:distinct-values(
+            for $member in $house?swornMembers
+                return $member
+    ))
+    return $count
+};
+
 let $houses := fn:json-doc("data.json")?houses?*
 let $characters := fn:json-doc("data.json")?characters?*
 
 return map {
     "Houses": array {
         (for $house in $houses
-        let $swornMembersCount := fn:count(
-            fn:distinct-values(
-                for $member in $house?swornMembers
-                    return $member
-            )        
-        )
+        let $swornMembersCount := local:countSwornMembers($house)
         order by $swornMembersCount descending
         return 
             map {
